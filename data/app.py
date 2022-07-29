@@ -8,11 +8,11 @@ fields = ['Learner gender', 'Teachers Gender', 'Teachers Age',
     
 # data rows of csv file
 
-# gender = male
+gender = ["Male", "Female"]
 rown = [["male", "female", "40", "NO", "YES", "YES", "YES", "BOOKS", "MODEL C"]]
     
 # name of csv file 
-filename = "university_records.csv"
+filename = "data_records.csv"
     
 # writing to csv file 
 with open(filename, 'w') as csvfile: 
