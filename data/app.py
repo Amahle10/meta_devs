@@ -1,6 +1,8 @@
  
-import csv 
-    
+import csv
+import imp
+import random 
+
 # field names 
 fields = ['Learner gender', 'Teachers Gender', 'Teachers Age',
           'Community Outreach', "Next of kin has a degree", "Know Career path",
@@ -9,7 +11,7 @@ fields = ['Learner gender', 'Teachers Gender', 'Teachers Age',
 # data rows of csv file
 
 gender = ["Male", "Female"]
-rown = [["male", "female", "40", "NO", "YES", "YES", "YES", "BOOKS", "MODEL C"]]
+rown = [[random.choice(gender), "female", "40", "NO", "YES", "YES", "YES", "BOOKS", "MODEL C"]]
     
 # name of csv file 
 filename = "data_records.csv"
