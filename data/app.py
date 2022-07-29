@@ -8,6 +8,7 @@ fields = ['Learner gender', 'Teachers Gender', 'Teachers Age',
     
 # data rows of csv file
 
+# gender = male
 rown = [["male", "female", "40", "NO", "YES", "YES", "YES", "BOOKS", "MODEL C"]]
     
 # name of csv file 
@@ -20,6 +21,6 @@ with open(filename, 'w') as csvfile:
         
     # writing the fields 
     csvwriter.writerow(fields) 
-    # for i in range(4):
+    for i in range(100):
     # # writing the data rows 
-    csvwriter.writerows(rown)
+        csvwriter.writerows(rown)
