@@ -11,7 +11,7 @@ fields = ['Learner gender', 'Teachers Gender', 'Teachers Age',
 # data rows of csv file
 
 gender = ["Male", "Female"]
-rown = [[random.choice(gender), "female", "40", "NO", "YES", "YES", "YES", "BOOKS", "MODEL C"]]
+# print(random.choice(gender))
     
 # name of csv file 
 filename = "data_records.csv"
@@ -24,5 +24,9 @@ with open(filename, 'w') as csvfile:
     # writing the fields 
     csvwriter.writerow(fields) 
     for i in range(100):
-    # # writing the data rows 
+        age = random.randint(24, 65)
+        yes_no = random.choice(["YES", "NO"])
+        type_of_matterial_prefarred = random.choice(["Books", "YouTube","Google search", "Teachers explanation", "peer to peer"])
+        type_of_school = random.choice(["Model C", "Model B", "Model A"])
+        rown = [[str(random.choice(gender)),str(random.choice(gender)) , age, yes_no, yes_no, yes_no, yes_no,type_of_matterial_prefarred , type_of_school]]
         csvwriter.writerows(rown)
