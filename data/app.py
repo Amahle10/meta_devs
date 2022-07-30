@@ -6,7 +6,7 @@ import random
 # field names 
 fields = ['Learner gender', 'Teachers Gender', 'Teachers Age',
           'Community Outreach', "Next of kin has a degree", "Know Career path",
-          "has access to internet at home", "learning material preferred", "type of school"] 
+          "has access to internet at home", "learning material preferred", "type of school", "enrolled"] 
     
 # data rows of csv file
 
@@ -28,5 +28,5 @@ with open(filename, 'w') as csvfile:
         yes_no = random.choice(["YES", "NO"])
         type_of_matterial_prefarred = random.choice(["Books", "YouTube","Google search", "Teachers explanation", "peer to peer"])
         type_of_school = random.choice(["Model C", "Model B", "Model A"])
-        rown = [[str(random.choice(gender)),str(random.choice(gender)) , age, yes_no, yes_no, yes_no, yes_no,type_of_matterial_prefarred , type_of_school]]
+        rown = [[str(random.choice(gender)),str(random.choice(gender)) , age, yes_no, yes_no, yes_no, yes_no,type_of_matterial_prefarred , type_of_school, yes_no]]
         csvwriter.writerows(rown)
