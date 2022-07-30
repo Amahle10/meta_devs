@@ -1,1001 +1,1001 @@
-Learner gender,Teachers Gender,Teachers Age,Community Outreach,Next of kin has a degree,Know Career path,has access to internet at home,learning material preferred,type of school,enrolled
-Female,Female,32,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,36,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Male,24,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,44,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Male,32,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,45,YES,YES,YES,YES,Books,Model A,YES
-Male,Male,49,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Female,43,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,46,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,64,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,60,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,38,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,42,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,52,NO,NO,NO,NO,Google search,Model C,NO
-Female,Male,35,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,61,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Female,45,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Male,54,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Male,26,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,39,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Female,44,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,43,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,28,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,32,YES,YES,YES,YES,Google search,Model C,YES
-Female,Male,57,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Male,45,YES,YES,YES,YES,Books,Model C,YES
-Male,Male,34,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,53,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Male,46,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Male,58,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,65,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,39,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,50,YES,YES,YES,YES,Books,Model A,YES
-Female,Male,44,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Female,26,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,48,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Female,60,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,63,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,59,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,55,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,29,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,41,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,64,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,61,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,61,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,57,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,41,YES,YES,YES,YES,Google search,Model B,YES
-Male,Male,56,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,32,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,47,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,28,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,26,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,59,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,50,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Male,30,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,59,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,31,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,48,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Male,65,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,60,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,61,NO,NO,NO,NO,Books,Model C,NO
-Female,Male,31,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,30,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,39,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Male,49,YES,YES,YES,YES,Books,Model C,YES
-Male,Male,61,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Male,26,YES,YES,YES,YES,Google search,Model B,YES
-Male,Male,54,YES,YES,YES,YES,Books,Model A,YES
-Female,Female,46,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,57,YES,YES,YES,YES,Google search,Model C,YES
-Female,Male,32,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,36,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,49,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,49,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,58,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,29,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,65,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,41,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,25,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,46,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Female,60,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,40,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,63,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,38,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,50,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,39,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,41,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,57,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,40,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,44,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,39,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Female,24,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,33,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,34,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,32,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,43,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,31,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Female,55,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,30,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Female,49,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,34,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,27,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,31,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,60,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,54,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,30,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Female,39,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,34,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,64,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,42,NO,NO,NO,NO,Books,Model C,NO
-Female,Male,29,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,33,YES,YES,YES,YES,Books,Model A,YES
-Female,Female,57,YES,YES,YES,YES,Google search,Model B,YES
-Male,Male,29,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Female,30,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,34,YES,YES,YES,YES,Google search,Model B,YES
-Male,Male,54,YES,YES,YES,YES,peer to peer,Model C,YES
-Female,Male,48,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Male,28,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Male,24,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,48,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,29,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,36,NO,NO,NO,NO,Google search,Model B,NO
-Male,Female,32,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,44,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Male,51,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,47,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,62,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,63,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,59,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Male,49,YES,YES,YES,YES,Google search,Model A,YES
-Male,Female,62,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,32,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Male,50,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Male,41,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Male,29,YES,YES,YES,YES,Books,Model A,YES
-Female,Male,46,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,51,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,34,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Male,28,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,43,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,42,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,24,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,58,YES,YES,YES,YES,Google search,Model B,YES
-Female,Female,60,NO,NO,NO,NO,Google search,Model B,NO
-Male,Male,25,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,53,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,55,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,55,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,59,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Female,45,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,53,NO,NO,NO,NO,Teachers explanation,Model B,NO
+Learner gender,Teachers Gender,Teachers Age,Community Outreach,Next of kin has a degree,Know Career path,has access to internet at home,learning material preferred,type of school,Enrolled
+Male,Male,44,NO,NO,YES,NO,Google search,Model A,NO
+Female,Female,43,YES,NO,YES,NO,YouTube,Model C,YES
+Female,Female,56,YES,YES,YES,NO,Google search,Model A,YES
+Male,Male,52,NO,NO,YES,NO,Google search,Model A,YES
+Female,Female,59,YES,NO,YES,YES,Teachers explanation,Model A,YES
+Male,Male,37,NO,YES,NO,NO,peer to peer,Model B,YES
+Male,Female,32,NO,NO,NO,NO,YouTube,Model B,YES
+Female,Male,28,YES,NO,YES,NO,Google search,Model A,NO
+Female,Female,31,NO,NO,NO,NO,Teachers explanation,Model A,NO
+Male,Female,29,YES,NO,NO,NO,Google search,Model A,NO
+Female,Female,51,NO,NO,YES,NO,Google search,Model C,NO
+Female,Female,38,NO,YES,NO,NO,Books,Model C,NO
+Male,Female,47,YES,NO,NO,YES,peer to peer,Model C,YES
+Female,Female,61,NO,NO,NO,NO,peer to peer,Model B,YES
+Female,Female,27,NO,NO,NO,YES,Google search,Model C,YES
+Male,Female,27,YES,YES,YES,YES,Google search,Model C,NO
+Female,Female,29,YES,YES,YES,NO,Google search,Model C,YES
+Female,Male,24,YES,YES,NO,NO,Books,Model A,NO
+Female,Female,61,YES,YES,YES,NO,Teachers explanation,Model C,YES
+Male,Male,59,YES,YES,NO,NO,Books,Model C,YES
+Female,Female,38,NO,YES,NO,YES,Google search,Model A,YES
+Female,Female,60,NO,NO,NO,YES,Books,Model B,NO
+Female,Male,47,YES,YES,YES,NO,peer to peer,Model C,NO
+Male,Female,43,YES,NO,YES,NO,YouTube,Model A,NO
+Female,Male,57,YES,NO,NO,NO,YouTube,Model A,YES
+Female,Female,49,NO,NO,YES,NO,YouTube,Model B,YES
+Male,Male,52,YES,YES,NO,YES,Google search,Model A,YES
+Male,Female,58,YES,NO,YES,NO,YouTube,Model B,NO
+Female,Male,35,NO,NO,YES,NO,peer to peer,Model A,NO
+Male,Male,27,YES,YES,YES,NO,Books,Model B,NO
+Male,Male,50,NO,YES,NO,NO,Teachers explanation,Model C,YES
+Male,Female,38,YES,YES,NO,YES,Google search,Model B,NO
+Female,Female,53,YES,YES,YES,YES,peer to peer,Model C,NO
+Female,Female,35,NO,YES,NO,YES,Teachers explanation,Model C,NO
+Male,Female,59,YES,NO,YES,NO,YouTube,Model B,YES
+Male,Female,58,NO,YES,YES,NO,YouTube,Model A,YES
+Female,Female,63,NO,NO,YES,NO,Books,Model C,NO
+Male,Female,37,YES,YES,NO,NO,Books,Model A,YES
+Female,Female,36,YES,YES,YES,YES,YouTube,Model A,NO
+Male,Male,26,NO,NO,YES,NO,Teachers explanation,Model A,YES
+Female,Male,31,NO,YES,YES,YES,Books,Model A,NO
+Male,Female,60,YES,YES,YES,YES,Google search,Model C,YES
+Female,Male,24,NO,NO,NO,NO,peer to peer,Model A,NO
+Female,Male,26,YES,YES,YES,YES,Teachers explanation,Model A,YES
+Female,Female,65,NO,NO,NO,YES,Teachers explanation,Model B,NO
+Female,Female,26,NO,YES,YES,YES,peer to peer,Model B,NO
+Male,Male,45,YES,YES,YES,YES,Books,Model A,YES
+Male,Female,53,YES,YES,NO,YES,peer to peer,Model B,YES
+Female,Female,25,YES,YES,NO,NO,Books,Model A,NO
+Female,Female,54,NO,NO,YES,YES,Teachers explanation,Model C,YES
+Male,Female,31,YES,YES,YES,NO,YouTube,Model C,YES
+Male,Female,58,NO,YES,YES,NO,Google search,Model B,YES
+Male,Female,46,YES,NO,NO,NO,Books,Model B,YES
+Female,Male,48,NO,YES,NO,NO,Books,Model B,NO
+Male,Male,56,YES,NO,NO,NO,Books,Model B,NO
+Female,Female,36,YES,YES,YES,YES,Books,Model C,NO
+Female,Female,32,NO,YES,YES,NO,Google search,Model A,YES
+Male,Female,56,YES,YES,YES,YES,Teachers explanation,Model A,NO
+Male,Male,54,NO,YES,NO,NO,Google search,Model A,NO
+Female,Female,59,NO,YES,NO,YES,Teachers explanation,Model C,YES
+Male,Female,33,NO,NO,NO,YES,Teachers explanation,Model A,NO
+Female,Female,32,NO,YES,YES,YES,peer to peer,Model A,NO
 Female,Male,46,YES,YES,YES,YES,Books,Model A,YES
-Male,Female,57,YES,YES,YES,YES,Google search,Model C,YES
-Female,Female,57,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,54,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Male,28,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Female,62,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,48,NO,NO,NO,NO,Google search,Model A,NO
-Female,Male,28,YES,YES,YES,YES,Books,Model A,YES
-Male,Male,35,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,43,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,36,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Male,50,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,57,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Female,27,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,59,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,30,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,24,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,60,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,50,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,35,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,34,YES,YES,YES,YES,Books,Model A,YES
-Male,Male,58,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,58,YES,YES,YES,YES,peer to peer,Model C,YES
-Female,Male,33,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Female,51,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,61,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Male,39,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Male,42,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,50,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,44,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Male,38,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Female,54,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,40,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,28,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,40,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Female,27,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,29,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,41,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,63,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,35,YES,YES,YES,YES,Google search,Model C,YES
-Female,Male,33,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Female,50,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,61,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Female,62,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,59,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,24,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Female,49,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,45,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Male,35,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,55,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,61,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,32,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,35,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,31,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Male,52,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Female,31,YES,YES,YES,YES,Books,Model A,YES
-Female,Female,54,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,44,YES,YES,YES,YES,Google search,Model C,YES
-Female,Female,29,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Female,39,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Male,50,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,45,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,35,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,52,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Female,56,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,55,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Female,48,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,43,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,28,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Male,45,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,59,YES,YES,YES,YES,Books,Model C,YES
-Male,Male,44,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,34,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,55,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,57,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,64,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Female,36,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Male,39,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,24,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,31,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,38,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,29,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,57,NO,NO,NO,NO,Google search,Model B,NO
-Male,Female,55,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,59,YES,YES,YES,YES,Google search,Model A,YES
-Female,Male,32,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Female,43,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,56,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,65,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Male,54,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,47,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Male,38,NO,NO,NO,NO,Google search,Model A,NO
-Female,Male,24,YES,YES,YES,YES,Google search,Model A,YES
-Female,Male,56,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Male,47,NO,NO,NO,NO,Google search,Model B,NO
-Male,Female,51,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,39,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,51,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,47,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,27,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,35,YES,YES,YES,YES,peer to peer,Model C,YES
-Female,Male,47,YES,YES,YES,YES,peer to peer,Model C,YES
-Female,Female,50,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Male,28,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,65,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,63,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Female,49,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,59,YES,YES,YES,YES,Google search,Model A,YES
-Male,Female,52,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,38,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Female,50,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Male,28,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,27,YES,YES,YES,YES,Google search,Model A,YES
-Male,Female,53,NO,NO,NO,NO,Google search,Model C,NO
-Male,Male,42,NO,NO,NO,NO,Books,Model C,NO
-Female,Female,31,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,62,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,49,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,64,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Female,29,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,33,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,50,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,46,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,35,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,39,NO,NO,NO,NO,Books,Model A,NO
-Female,Female,35,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,44,NO,NO,NO,NO,Google search,Model B,NO
-Male,Female,49,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Male,64,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Female,30,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,42,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,29,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,43,YES,YES,YES,YES,Google search,Model A,YES
+Female,Female,26,NO,NO,YES,NO,Books,Model C,NO
+Female,Female,43,NO,NO,YES,NO,Teachers explanation,Model A,YES
+Male,Female,53,NO,NO,NO,NO,Google search,Model A,YES
+Female,Male,56,YES,YES,YES,YES,Google search,Model C,YES
+Female,Male,36,YES,YES,NO,NO,Books,Model A,NO
+Male,Female,47,YES,NO,NO,NO,Books,Model B,YES
+Female,Male,24,NO,YES,YES,NO,Books,Model B,NO
+Female,Female,49,NO,YES,YES,YES,peer to peer,Model C,NO
+Male,Female,62,NO,NO,NO,NO,peer to peer,Model A,YES
+Female,Male,59,YES,YES,YES,YES,Teachers explanation,Model C,YES
+Male,Male,30,YES,YES,NO,NO,Teachers explanation,Model B,YES
+Female,Male,33,NO,NO,YES,YES,Books,Model A,YES
+Female,Male,49,YES,YES,NO,NO,Teachers explanation,Model C,NO
+Female,Female,31,NO,YES,YES,NO,peer to peer,Model B,YES
+Female,Male,43,NO,NO,NO,YES,YouTube,Model B,NO
+Female,Male,31,YES,YES,NO,YES,Google search,Model B,YES
+Male,Male,56,YES,NO,YES,NO,Books,Model A,YES
+Male,Female,43,YES,YES,NO,YES,Books,Model B,YES
+Male,Female,41,YES,NO,YES,YES,Books,Model A,YES
+Female,Male,49,YES,YES,NO,NO,Books,Model A,NO
+Female,Male,56,NO,YES,YES,YES,Books,Model B,NO
+Female,Female,40,YES,YES,YES,YES,peer to peer,Model A,NO
+Male,Male,38,NO,NO,YES,YES,YouTube,Model C,YES
+Male,Male,42,NO,YES,YES,NO,Google search,Model A,YES
+Male,Male,42,NO,NO,YES,YES,Books,Model B,NO
+Female,Male,57,NO,YES,YES,YES,Books,Model C,YES
+Male,Male,58,YES,NO,NO,YES,Books,Model B,YES
+Female,Male,62,YES,NO,YES,YES,Books,Model B,NO
+Female,Female,33,NO,NO,NO,NO,YouTube,Model C,YES
+Female,Female,49,YES,NO,NO,YES,Google search,Model A,YES
+Female,Male,52,NO,NO,NO,NO,Teachers explanation,Model B,YES
+Male,Male,36,YES,YES,YES,YES,Google search,Model C,NO
+Female,Female,57,YES,YES,NO,YES,Google search,Model A,YES
+Female,Female,59,YES,NO,YES,NO,Books,Model B,YES
+Female,Female,64,YES,YES,YES,YES,peer to peer,Model B,YES
+Male,Female,28,NO,YES,NO,YES,Books,Model B,YES
+Female,Female,27,NO,NO,YES,NO,Teachers explanation,Model A,NO
+Male,Male,43,YES,YES,YES,YES,Google search,Model B,NO
+Male,Male,28,NO,NO,NO,NO,YouTube,Model B,YES
+Female,Female,45,NO,YES,NO,YES,Books,Model A,YES
+Female,Male,57,NO,YES,YES,YES,peer to peer,Model A,NO
+Male,Female,50,YES,NO,YES,YES,Teachers explanation,Model B,YES
+Female,Female,62,NO,YES,YES,NO,peer to peer,Model A,YES
+Female,Male,35,NO,YES,YES,YES,peer to peer,Model A,YES
+Male,Female,58,NO,YES,NO,NO,Books,Model B,NO
+Male,Female,35,NO,YES,YES,NO,peer to peer,Model C,YES
+Female,Male,35,NO,NO,NO,YES,YouTube,Model C,YES
+Female,Male,64,NO,YES,NO,NO,Books,Model A,YES
+Female,Male,59,NO,NO,YES,YES,YouTube,Model C,NO
+Female,Female,40,YES,YES,YES,NO,Teachers explanation,Model B,YES
+Female,Female,61,YES,YES,YES,NO,Teachers explanation,Model B,NO
+Male,Female,62,NO,NO,NO,NO,Teachers explanation,Model B,YES
+Male,Male,24,NO,YES,NO,NO,Books,Model C,YES
+Female,Male,26,NO,YES,NO,NO,Google search,Model C,NO
+Female,Male,39,YES,YES,NO,NO,peer to peer,Model B,NO
+Male,Female,62,YES,NO,NO,YES,peer to peer,Model C,YES
+Male,Female,64,YES,NO,YES,NO,peer to peer,Model B,YES
+Male,Female,62,YES,YES,NO,NO,Teachers explanation,Model B,NO
+Female,Male,54,NO,NO,YES,NO,YouTube,Model B,NO
+Male,Male,59,NO,YES,NO,NO,Teachers explanation,Model C,YES
+Male,Male,40,YES,NO,YES,YES,YouTube,Model B,YES
+Male,Male,42,YES,YES,YES,YES,peer to peer,Model C,YES
+Female,Male,40,YES,YES,YES,NO,Google search,Model A,YES
+Male,Male,50,YES,NO,YES,NO,peer to peer,Model C,YES
+Female,Male,47,YES,NO,YES,YES,YouTube,Model B,YES
+Female,Male,29,YES,YES,NO,NO,Google search,Model B,YES
+Female,Female,42,NO,NO,NO,YES,YouTube,Model A,YES
+Male,Male,60,YES,YES,YES,YES,peer to peer,Model A,NO
+Female,Female,47,NO,YES,NO,YES,Books,Model C,YES
+Male,Female,53,NO,YES,NO,NO,peer to peer,Model B,NO
+Female,Female,64,NO,YES,YES,NO,peer to peer,Model A,YES
+Male,Male,25,NO,NO,YES,YES,Books,Model A,YES
+Female,Female,26,NO,NO,NO,NO,Books,Model A,YES
+Male,Female,61,NO,NO,YES,NO,Google search,Model C,NO
+Male,Female,61,YES,NO,NO,YES,peer to peer,Model C,NO
+Female,Female,29,NO,YES,YES,YES,peer to peer,Model A,NO
+Male,Male,55,YES,NO,YES,YES,YouTube,Model C,NO
+Female,Male,33,YES,NO,NO,NO,Books,Model B,NO
+Male,Female,49,YES,YES,NO,NO,Teachers explanation,Model B,NO
+Female,Male,52,YES,NO,NO,YES,YouTube,Model A,NO
+Male,Female,44,NO,NO,NO,NO,peer to peer,Model A,NO
+Female,Male,35,NO,YES,NO,YES,Teachers explanation,Model A,NO
+Female,Male,47,YES,YES,NO,NO,peer to peer,Model A,NO
+Female,Male,38,YES,NO,YES,NO,YouTube,Model C,YES
+Male,Female,47,NO,YES,YES,YES,Google search,Model B,NO
+Male,Female,52,NO,YES,NO,NO,Google search,Model A,YES
+Female,Male,39,YES,YES,YES,NO,Books,Model C,NO
+Female,Female,33,NO,NO,YES,YES,Books,Model B,YES
+Male,Male,25,NO,NO,YES,NO,Google search,Model A,NO
+Female,Male,36,YES,YES,NO,NO,Books,Model B,YES
+Female,Female,65,YES,YES,NO,NO,Books,Model B,NO
+Male,Male,34,YES,NO,NO,NO,Books,Model B,NO
+Female,Female,48,YES,NO,NO,YES,peer to peer,Model B,NO
+Female,Male,44,NO,YES,YES,NO,Teachers explanation,Model A,YES
+Female,Male,42,YES,YES,YES,YES,peer to peer,Model C,YES
+Male,Female,51,YES,YES,YES,YES,Google search,Model B,NO
+Female,Female,28,YES,NO,NO,YES,Teachers explanation,Model C,YES
+Male,Female,45,NO,NO,NO,YES,Google search,Model B,YES
+Female,Female,56,NO,YES,NO,NO,peer to peer,Model A,NO
 Female,Male,31,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,35,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,54,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,53,YES,YES,YES,YES,Books,Model A,YES
-Male,Female,33,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,51,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Male,63,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,48,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,25,NO,NO,NO,NO,Google search,Model C,NO
-Male,Male,25,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,34,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,47,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Male,26,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,31,YES,YES,YES,YES,Books,Model A,YES
-Female,Female,45,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Male,41,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,50,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Male,29,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,62,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Male,63,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,48,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Male,48,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Female,25,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,51,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,41,NO,NO,NO,NO,Google search,Model B,NO
-Male,Male,48,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,42,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,50,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,48,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,45,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Male,31,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,33,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Female,24,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,36,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,25,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Female,35,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Male,46,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,49,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Male,30,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,35,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,65,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,42,YES,YES,YES,YES,Books,Model C,YES
-Male,Male,30,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Female,26,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,60,YES,YES,YES,YES,Google search,Model C,YES
-Female,Female,51,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,49,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,31,NO,NO,NO,NO,Google search,Model C,NO
-Male,Male,39,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,32,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Male,31,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,57,NO,NO,NO,NO,Google search,Model C,NO
-Female,Male,25,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,64,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,58,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,55,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,64,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Female,32,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,54,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,62,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,52,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Male,60,NO,NO,NO,NO,Books,Model A,NO
-Female,Female,43,YES,YES,YES,YES,Books,Model A,YES
-Female,Male,32,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,40,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Male,48,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,45,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Male,52,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Female,63,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,54,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,33,YES,YES,YES,YES,Google search,Model A,YES
-Female,Male,30,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Female,45,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,48,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,53,YES,YES,YES,YES,Books,Model A,YES
-Female,Female,61,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,45,NO,NO,NO,NO,Books,Model B,NO
-Female,Female,48,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Male,37,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,54,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,60,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Female,42,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Female,29,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Male,53,YES,YES,YES,YES,Google search,Model C,YES
-Female,Female,34,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,45,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,43,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,43,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Female,52,NO,NO,NO,NO,Google search,Model A,NO
-Male,Female,65,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,30,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,44,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,45,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,28,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Male,43,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,27,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,62,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,62,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,42,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,42,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,55,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Male,33,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,36,NO,NO,NO,NO,Books,Model C,NO
-Female,Male,24,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,44,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,51,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Female,63,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Female,33,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Male,30,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,59,YES,YES,YES,YES,Books,Model A,YES
-Male,Male,58,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,42,NO,NO,NO,NO,Books,Model C,NO
-Female,Female,26,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Female,43,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,52,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,53,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,49,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Female,38,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,50,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,29,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Male,51,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Female,35,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,47,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,36,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,43,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,44,YES,YES,YES,YES,Books,Model A,YES
-Male,Female,57,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Male,42,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Female,33,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,54,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,61,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Female,60,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,26,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Female,64,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,56,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,49,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Male,37,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Female,31,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Female,40,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,36,NO,NO,NO,NO,Books,Model C,NO
-Female,Female,52,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,29,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,63,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,61,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Male,25,NO,NO,NO,NO,Books,Model B,NO
-Female,Female,42,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Male,25,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,29,YES,YES,YES,YES,Books,Model A,YES
-Female,Male,32,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,60,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,56,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Female,26,NO,NO,NO,NO,Google search,Model B,NO
-Male,Female,42,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,33,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,62,YES,YES,YES,YES,Books,Model C,YES
-Male,Male,56,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Female,39,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,63,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,63,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,61,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,41,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,42,YES,YES,YES,YES,Google search,Model C,YES
-Female,Male,29,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Female,45,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,45,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Female,55,YES,YES,YES,YES,peer to peer,Model C,YES
-Female,Female,62,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,58,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Female,27,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,55,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Male,44,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,48,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Male,36,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,44,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,39,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,43,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,38,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,53,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Male,31,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,27,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,45,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,64,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,36,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,35,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,32,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Male,50,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Female,34,NO,NO,NO,NO,Books,Model C,NO
-Female,Female,28,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Male,41,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,62,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,43,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,64,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Female,42,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Female,43,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,53,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,27,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,31,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,39,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,60,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,48,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Male,58,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,30,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Male,53,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,57,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,57,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,65,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,52,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Female,46,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,65,NO,NO,NO,NO,Books,Model B,NO
-Female,Female,28,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,35,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Female,47,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,48,NO,NO,NO,NO,Google search,Model C,NO
-Female,Male,47,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Male,47,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,44,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Female,39,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,25,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Female,38,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,34,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,31,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,42,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,25,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,44,NO,NO,NO,NO,Google search,Model A,NO
-Male,Female,52,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,65,YES,YES,YES,YES,Google search,Model C,YES
-Female,Female,25,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Male,60,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,60,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Male,47,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Female,26,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Male,42,NO,NO,NO,NO,Google search,Model C,NO
-Female,Male,56,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,48,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,51,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,64,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,24,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,34,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,56,NO,NO,NO,NO,Books,Model C,NO
-Female,Female,52,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Female,28,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,59,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,25,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Male,43,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Male,27,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,59,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,27,YES,YES,YES,YES,Google search,Model A,YES
-Female,Male,61,YES,YES,YES,YES,Books,Model C,YES
-Male,Male,24,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Female,47,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Female,61,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,57,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,62,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,36,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Male,32,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,29,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,31,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,32,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,53,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,34,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,64,YES,YES,YES,YES,Google search,Model B,YES
-Female,Female,55,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,38,YES,YES,YES,YES,Books,Model C,YES
-Male,Female,49,YES,YES,YES,YES,Google search,Model A,YES
-Male,Female,49,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Male,63,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,43,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,33,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,64,YES,YES,YES,YES,Google search,Model C,YES
-Female,Male,31,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Male,34,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,28,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,54,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Female,29,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,60,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,25,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,55,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Female,39,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,28,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,46,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,54,YES,YES,YES,YES,Books,Model A,YES
-Male,Male,53,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,56,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,28,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,35,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,50,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,26,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,44,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Female,60,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,50,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,42,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,47,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,28,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,59,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,25,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,60,YES,YES,YES,YES,Books,Model C,YES
-Male,Female,58,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,49,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Female,42,NO,NO,NO,NO,peer to peer,Model A,NO
+Female,Female,44,YES,NO,NO,NO,Teachers explanation,Model A,YES
+Female,Female,35,NO,YES,NO,NO,Teachers explanation,Model B,NO
+Male,Male,64,NO,NO,YES,NO,peer to peer,Model B,YES
+Female,Female,62,NO,NO,YES,NO,peer to peer,Model B,YES
+Male,Female,40,YES,NO,NO,YES,Teachers explanation,Model B,NO
+Female,Male,54,NO,NO,NO,YES,Books,Model C,NO
+Male,Male,46,YES,NO,NO,NO,Books,Model C,YES
+Female,Female,46,YES,YES,YES,NO,Books,Model A,YES
+Male,Male,45,YES,YES,YES,NO,Books,Model A,YES
+Male,Male,27,YES,NO,YES,NO,peer to peer,Model B,NO
+Female,Male,41,YES,NO,YES,YES,peer to peer,Model B,NO
+Female,Female,33,YES,NO,NO,YES,peer to peer,Model C,NO
+Male,Female,48,YES,YES,YES,NO,Teachers explanation,Model C,NO
+Female,Male,28,NO,NO,YES,NO,Books,Model A,YES
+Male,Female,33,NO,YES,YES,YES,Google search,Model A,NO
+Male,Male,43,YES,NO,NO,NO,Google search,Model C,YES
+Female,Female,43,YES,YES,YES,NO,YouTube,Model C,YES
+Male,Female,52,NO,YES,NO,NO,YouTube,Model B,YES
+Male,Female,59,YES,YES,NO,NO,YouTube,Model B,YES
+Female,Male,49,YES,NO,NO,YES,Google search,Model A,YES
+Male,Male,54,YES,YES,YES,YES,peer to peer,Model B,NO
+Male,Male,45,YES,YES,YES,YES,Books,Model C,YES
+Female,Female,54,NO,NO,YES,YES,Books,Model C,NO
+Male,Male,29,YES,YES,NO,YES,peer to peer,Model A,NO
+Female,Male,34,NO,YES,NO,YES,Teachers explanation,Model B,NO
+Female,Male,61,YES,YES,NO,NO,YouTube,Model C,YES
+Female,Male,24,NO,YES,YES,NO,peer to peer,Model C,NO
+Female,Male,41,YES,NO,YES,YES,peer to peer,Model C,NO
+Female,Female,28,NO,NO,NO,YES,YouTube,Model A,YES
+Male,Female,34,NO,YES,YES,YES,peer to peer,Model B,YES
+Female,Female,40,YES,NO,NO,YES,Google search,Model B,NO
+Female,Male,38,YES,NO,YES,NO,peer to peer,Model C,YES
+Female,Female,41,NO,YES,YES,NO,Google search,Model A,NO
+Female,Female,53,NO,YES,NO,NO,Teachers explanation,Model B,YES
+Male,Male,28,NO,YES,YES,YES,Books,Model A,YES
+Male,Male,33,YES,YES,NO,NO,Teachers explanation,Model C,NO
+Male,Male,54,NO,NO,YES,NO,Google search,Model A,NO
+Female,Male,60,YES,YES,YES,YES,peer to peer,Model B,NO
+Female,Female,56,YES,YES,NO,NO,Teachers explanation,Model B,NO
+Female,Female,42,YES,YES,NO,NO,peer to peer,Model A,NO
+Male,Male,31,NO,NO,NO,NO,YouTube,Model C,YES
+Male,Female,32,NO,YES,NO,NO,YouTube,Model B,NO
+Male,Male,54,NO,YES,YES,NO,Teachers explanation,Model A,YES
+Female,Female,65,NO,NO,YES,NO,Books,Model B,YES
+Female,Male,49,NO,NO,NO,YES,peer to peer,Model B,NO
+Female,Male,55,NO,YES,NO,NO,peer to peer,Model C,YES
+Female,Male,60,YES,NO,NO,YES,Google search,Model A,YES
+Female,Male,51,NO,YES,NO,YES,Books,Model A,NO
+Female,Female,25,YES,YES,YES,YES,Books,Model A,NO
+Male,Male,64,YES,NO,YES,YES,Teachers explanation,Model B,NO
+Female,Female,62,NO,NO,NO,YES,peer to peer,Model B,NO
+Female,Female,49,YES,YES,YES,NO,Books,Model B,YES
+Female,Female,44,NO,YES,NO,NO,peer to peer,Model B,YES
+Male,Male,34,YES,YES,NO,YES,Teachers explanation,Model A,YES
+Male,Female,38,YES,NO,YES,NO,Google search,Model B,NO
+Male,Female,32,NO,NO,NO,NO,peer to peer,Model B,NO
+Male,Male,60,NO,YES,YES,YES,YouTube,Model A,NO
+Female,Male,27,YES,NO,NO,YES,YouTube,Model B,YES
+Male,Female,64,YES,NO,YES,NO,Google search,Model B,NO
+Male,Male,62,YES,NO,YES,YES,YouTube,Model C,NO
+Male,Male,58,YES,YES,YES,YES,Teachers explanation,Model B,NO
+Female,Female,63,NO,NO,NO,YES,peer to peer,Model B,YES
+Female,Female,62,NO,NO,NO,YES,peer to peer,Model C,YES
+Female,Male,60,YES,YES,NO,NO,peer to peer,Model B,NO
+Male,Male,25,NO,NO,YES,NO,Books,Model C,YES
+Female,Female,29,NO,YES,YES,NO,YouTube,Model C,NO
+Male,Male,24,NO,NO,YES,YES,Books,Model A,NO
+Female,Female,29,YES,YES,YES,NO,YouTube,Model B,NO
+Female,Female,45,NO,NO,YES,NO,YouTube,Model A,YES
+Male,Female,47,YES,NO,NO,NO,peer to peer,Model C,NO
+Male,Male,44,NO,YES,YES,YES,Books,Model A,NO
+Male,Female,62,YES,YES,NO,YES,peer to peer,Model A,YES
+Female,Female,56,NO,YES,NO,YES,Teachers explanation,Model C,NO
+Female,Male,51,NO,YES,YES,NO,Teachers explanation,Model C,YES
+Female,Female,64,NO,YES,YES,YES,Books,Model C,YES
+Female,Female,49,NO,NO,YES,NO,Google search,Model C,YES
+Male,Male,24,NO,NO,NO,YES,Books,Model A,YES
+Female,Male,41,NO,NO,YES,YES,YouTube,Model A,NO
+Female,Male,41,NO,YES,NO,NO,Google search,Model B,YES
+Male,Male,35,YES,YES,YES,NO,peer to peer,Model A,YES
+Male,Female,45,YES,NO,NO,NO,Teachers explanation,Model C,NO
+Female,Female,29,YES,NO,NO,YES,Books,Model B,YES
+Female,Female,49,YES,YES,YES,NO,Books,Model C,YES
+Female,Female,35,NO,YES,YES,NO,Books,Model B,NO
+Female,Male,34,NO,YES,NO,YES,Teachers explanation,Model C,NO
+Female,Female,41,YES,NO,NO,NO,Teachers explanation,Model B,NO
+Male,Female,25,NO,YES,NO,YES,YouTube,Model B,YES
+Male,Female,49,NO,YES,NO,NO,Teachers explanation,Model A,YES
+Female,Female,40,YES,NO,YES,YES,Teachers explanation,Model B,NO
+Female,Female,39,YES,NO,NO,NO,peer to peer,Model A,NO
+Male,Male,24,YES,YES,NO,YES,peer to peer,Model B,NO
+Male,Female,65,NO,NO,NO,NO,Teachers explanation,Model C,NO
+Female,Female,47,NO,NO,YES,YES,peer to peer,Model A,NO
+Male,Male,48,YES,NO,NO,NO,Teachers explanation,Model B,NO
+Male,Male,63,NO,NO,NO,NO,Books,Model A,YES
+Male,Female,58,NO,YES,YES,YES,Books,Model C,YES
+Female,Female,63,NO,NO,YES,NO,peer to peer,Model A,YES
+Male,Female,27,NO,YES,YES,YES,Books,Model B,YES
+Female,Female,63,NO,YES,YES,YES,Teachers explanation,Model B,YES
+Female,Female,55,NO,NO,YES,NO,Teachers explanation,Model B,YES
+Female,Female,37,NO,NO,NO,NO,Google search,Model B,NO
+Female,Male,49,NO,YES,YES,YES,peer to peer,Model C,NO
+Male,Male,30,YES,NO,NO,YES,Google search,Model C,YES
+Male,Female,41,NO,YES,NO,NO,peer to peer,Model A,NO
+Male,Male,27,NO,NO,NO,YES,Teachers explanation,Model B,NO
+Female,Male,57,YES,NO,NO,YES,peer to peer,Model C,YES
+Female,Female,56,YES,NO,YES,NO,peer to peer,Model B,YES
+Male,Male,63,NO,NO,YES,NO,Google search,Model B,YES
+Female,Male,29,NO,NO,NO,YES,YouTube,Model C,NO
+Female,Male,55,NO,YES,NO,NO,Books,Model B,NO
+Female,Male,31,NO,NO,YES,YES,YouTube,Model A,YES
+Female,Male,41,NO,YES,YES,YES,YouTube,Model A,YES
+Female,Male,65,NO,YES,YES,YES,Google search,Model C,NO
+Female,Female,34,NO,YES,NO,NO,Books,Model A,NO
+Female,Male,33,NO,NO,YES,NO,peer to peer,Model C,YES
+Female,Female,57,YES,YES,YES,NO,Google search,Model C,NO
+Female,Male,24,NO,NO,NO,YES,Books,Model B,YES
+Female,Male,57,NO,YES,NO,YES,Teachers explanation,Model A,NO
+Female,Male,49,YES,YES,NO,NO,Books,Model B,YES
+Male,Male,41,YES,NO,NO,NO,Google search,Model B,YES
+Female,Male,43,NO,YES,YES,NO,peer to peer,Model A,NO
+Female,Male,45,NO,YES,NO,YES,YouTube,Model A,NO
+Female,Female,51,YES,NO,NO,NO,Books,Model B,NO
+Male,Male,60,NO,NO,NO,NO,Teachers explanation,Model C,YES
+Male,Male,61,YES,YES,YES,YES,Teachers explanation,Model B,YES
+Female,Male,56,NO,YES,YES,YES,YouTube,Model B,NO
+Female,Male,29,NO,YES,NO,YES,Teachers explanation,Model C,YES
+Female,Male,42,YES,NO,NO,YES,peer to peer,Model A,NO
+Male,Female,24,YES,NO,NO,NO,Google search,Model A,YES
+Male,Male,44,YES,NO,YES,NO,Books,Model A,NO
+Male,Male,30,NO,NO,YES,YES,Google search,Model B,NO
+Female,Male,26,NO,NO,YES,YES,Books,Model C,NO
+Male,Male,29,NO,NO,NO,YES,Google search,Model B,YES
+Female,Female,24,NO,NO,NO,NO,Teachers explanation,Model B,NO
+Male,Female,63,NO,NO,NO,YES,Books,Model B,YES
+Female,Male,60,YES,YES,NO,YES,Google search,Model B,YES
+Male,Male,45,NO,YES,NO,YES,Books,Model C,YES
+Female,Female,37,YES,YES,NO,NO,peer to peer,Model B,YES
+Female,Female,27,YES,YES,NO,YES,YouTube,Model B,NO
+Female,Female,40,YES,YES,YES,YES,YouTube,Model A,NO
+Male,Female,58,NO,YES,NO,YES,peer to peer,Model B,NO
+Female,Male,52,YES,NO,YES,YES,Google search,Model B,NO
+Male,Female,50,NO,NO,YES,YES,peer to peer,Model C,YES
+Female,Male,47,YES,NO,YES,NO,Google search,Model C,NO
+Male,Male,58,NO,NO,NO,YES,Teachers explanation,Model C,NO
+Male,Male,50,NO,YES,YES,YES,Google search,Model C,YES
+Male,Male,65,NO,NO,NO,YES,peer to peer,Model A,YES
+Male,Male,33,NO,YES,NO,YES,YouTube,Model B,YES
+Female,Female,60,YES,NO,NO,YES,Google search,Model B,NO
+Female,Male,62,NO,NO,YES,YES,YouTube,Model A,NO
+Female,Female,43,NO,NO,YES,YES,Teachers explanation,Model B,NO
+Male,Male,42,YES,NO,NO,NO,Books,Model B,YES
+Male,Male,35,YES,NO,NO,YES,peer to peer,Model B,YES
+Male,Male,52,NO,YES,YES,NO,Google search,Model C,NO
+Male,Male,24,YES,YES,YES,YES,YouTube,Model B,NO
+Female,Female,45,YES,YES,YES,NO,Books,Model B,YES
+Male,Female,32,YES,NO,YES,NO,peer to peer,Model C,YES
+Female,Male,53,NO,NO,YES,NO,Books,Model C,NO
+Male,Male,33,NO,YES,NO,NO,peer to peer,Model C,YES
+Male,Male,44,NO,NO,YES,YES,Books,Model A,YES
+Female,Female,53,NO,NO,YES,NO,Books,Model C,YES
+Male,Female,39,YES,YES,NO,YES,peer to peer,Model A,YES
+Male,Female,38,YES,YES,YES,YES,Google search,Model C,NO
+Male,Female,36,NO,NO,YES,YES,peer to peer,Model C,NO
+Male,Male,50,NO,YES,NO,YES,Google search,Model A,YES
+Male,Male,25,YES,NO,NO,YES,peer to peer,Model A,NO
+Female,Female,63,NO,NO,YES,NO,Teachers explanation,Model C,YES
+Male,Female,24,YES,YES,YES,YES,Teachers explanation,Model B,NO
+Female,Female,54,YES,YES,YES,YES,Teachers explanation,Model B,YES
+Female,Male,35,NO,YES,NO,YES,Books,Model B,NO
+Male,Male,29,YES,NO,YES,YES,peer to peer,Model B,YES
+Male,Male,30,YES,NO,YES,NO,peer to peer,Model A,YES
+Female,Female,64,YES,NO,NO,NO,peer to peer,Model A,NO
+Female,Female,62,YES,YES,YES,NO,peer to peer,Model C,NO
+Female,Female,41,NO,NO,NO,YES,YouTube,Model A,NO
+Female,Male,36,NO,YES,NO,NO,Teachers explanation,Model C,NO
+Female,Female,43,NO,NO,NO,YES,Books,Model B,NO
+Male,Female,62,YES,YES,YES,NO,peer to peer,Model C,NO
+Female,Male,51,NO,YES,YES,NO,Google search,Model C,YES
+Male,Male,46,YES,YES,YES,NO,Books,Model B,YES
+Female,Female,53,YES,YES,NO,NO,Books,Model C,YES
+Male,Male,60,YES,NO,NO,NO,Google search,Model C,NO
+Female,Female,65,NO,YES,NO,NO,YouTube,Model A,YES
+Male,Male,38,NO,NO,YES,YES,peer to peer,Model B,YES
+Female,Male,41,YES,YES,NO,NO,Google search,Model B,YES
+Male,Female,45,NO,NO,YES,NO,Books,Model B,YES
+Male,Male,63,NO,YES,YES,YES,Books,Model C,YES
+Female,Male,59,NO,NO,YES,YES,Google search,Model C,YES
+Female,Female,61,YES,NO,YES,NO,peer to peer,Model B,NO
+Female,Male,55,NO,NO,NO,NO,YouTube,Model A,YES
+Male,Male,31,YES,YES,NO,YES,peer to peer,Model B,YES
+Female,Male,49,NO,NO,NO,YES,Books,Model A,NO
+Male,Female,54,YES,YES,NO,NO,YouTube,Model B,NO
+Female,Male,37,YES,YES,NO,YES,Google search,Model B,NO
+Female,Male,35,YES,YES,YES,NO,Teachers explanation,Model B,YES
+Male,Male,41,YES,NO,YES,YES,Teachers explanation,Model B,YES
+Male,Female,32,YES,YES,YES,YES,Books,Model A,NO
+Male,Male,64,NO,YES,NO,NO,Teachers explanation,Model B,NO
+Female,Female,30,YES,YES,YES,NO,Teachers explanation,Model A,YES
+Male,Male,48,NO,YES,YES,NO,YouTube,Model B,YES
+Female,Female,34,YES,NO,YES,NO,Google search,Model A,NO
+Female,Male,33,YES,NO,NO,NO,Teachers explanation,Model A,NO
+Female,Female,33,NO,NO,YES,YES,Books,Model A,YES
+Female,Male,59,YES,YES,NO,YES,peer to peer,Model C,YES
+Female,Male,52,YES,YES,NO,NO,Teachers explanation,Model B,NO
+Female,Male,31,YES,YES,YES,YES,Teachers explanation,Model B,NO
+Female,Female,26,YES,YES,YES,NO,Google search,Model C,NO
+Female,Male,56,YES,YES,NO,NO,YouTube,Model B,NO
+Female,Female,46,NO,YES,YES,YES,Books,Model B,YES
+Female,Female,29,NO,YES,YES,YES,YouTube,Model B,YES
+Male,Female,65,NO,YES,YES,NO,peer to peer,Model A,YES
+Female,Male,40,YES,NO,NO,YES,Teachers explanation,Model A,YES
+Male,Female,53,YES,YES,YES,YES,YouTube,Model B,NO
+Female,Male,48,YES,NO,YES,NO,peer to peer,Model A,NO
+Male,Female,28,YES,NO,NO,YES,peer to peer,Model C,NO
+Male,Male,64,YES,YES,NO,YES,peer to peer,Model A,YES
+Female,Male,41,NO,YES,NO,NO,Google search,Model C,NO
+Female,Female,28,NO,YES,YES,NO,Teachers explanation,Model A,NO
+Female,Male,48,YES,NO,YES,NO,Teachers explanation,Model A,YES
+Female,Female,52,NO,YES,NO,YES,Google search,Model A,NO
+Male,Male,35,NO,YES,YES,YES,peer to peer,Model C,YES
+Female,Male,63,NO,NO,NO,YES,Google search,Model C,YES
+Male,Male,46,NO,YES,YES,NO,Teachers explanation,Model A,NO
+Female,Female,56,YES,NO,YES,YES,Books,Model B,YES
+Male,Female,32,NO,NO,YES,YES,YouTube,Model A,NO
+Female,Male,63,YES,YES,YES,YES,Books,Model B,NO
+Male,Female,52,NO,NO,YES,YES,Google search,Model A,NO
+Male,Female,44,YES,YES,NO,NO,Books,Model A,YES
+Male,Female,26,YES,YES,NO,YES,Google search,Model A,NO
+Female,Female,63,YES,NO,YES,NO,Books,Model A,YES
+Female,Female,62,YES,YES,NO,YES,YouTube,Model C,NO
+Male,Female,45,NO,NO,YES,YES,Teachers explanation,Model C,YES
+Female,Male,60,NO,NO,NO,NO,Books,Model B,NO
+Female,Female,50,YES,NO,NO,NO,peer to peer,Model B,YES
+Male,Male,62,NO,NO,YES,YES,Teachers explanation,Model A,NO
+Male,Male,25,YES,YES,YES,YES,Teachers explanation,Model A,NO
+Male,Male,35,YES,YES,YES,NO,Google search,Model B,YES
+Female,Male,29,NO,NO,NO,NO,Books,Model C,YES
+Male,Female,31,YES,YES,NO,YES,Google search,Model B,NO
+Female,Male,26,YES,YES,YES,YES,Books,Model A,NO
+Female,Male,31,YES,NO,YES,YES,YouTube,Model A,NO
+Female,Female,35,NO,YES,YES,YES,Teachers explanation,Model A,YES
+Male,Female,33,NO,NO,NO,NO,Books,Model A,YES
+Female,Male,33,NO,YES,NO,NO,Google search,Model C,NO
+Female,Female,38,YES,YES,YES,YES,YouTube,Model A,NO
+Male,Female,30,NO,NO,NO,YES,YouTube,Model C,NO
+Male,Male,31,YES,YES,YES,NO,peer to peer,Model A,NO
+Female,Male,37,YES,YES,NO,NO,YouTube,Model A,NO
+Female,Male,43,YES,NO,NO,YES,Google search,Model C,NO
+Female,Male,37,NO,NO,YES,YES,Books,Model C,NO
+Female,Female,65,YES,YES,NO,YES,peer to peer,Model A,NO
+Male,Male,31,NO,NO,NO,YES,peer to peer,Model B,YES
+Male,Female,64,YES,NO,NO,YES,peer to peer,Model C,NO
+Male,Female,37,YES,NO,NO,YES,Books,Model C,YES
+Female,Male,48,NO,NO,YES,YES,Books,Model A,NO
+Male,Male,24,YES,NO,YES,YES,Books,Model A,YES
+Female,Male,62,YES,YES,YES,NO,peer to peer,Model A,YES
+Male,Male,46,NO,YES,YES,YES,YouTube,Model B,NO
+Female,Male,54,NO,NO,NO,YES,YouTube,Model C,YES
+Male,Female,44,YES,NO,YES,YES,Books,Model B,YES
+Male,Male,62,NO,NO,NO,NO,Google search,Model C,YES
+Female,Male,42,YES,NO,YES,NO,Teachers explanation,Model C,YES
+Female,Female,65,YES,YES,NO,YES,Books,Model B,NO
+Male,Male,28,NO,YES,YES,NO,peer to peer,Model C,NO
+Male,Male,54,YES,NO,YES,NO,YouTube,Model A,YES
+Female,Female,34,NO,YES,NO,YES,Teachers explanation,Model A,YES
+Male,Male,34,NO,YES,NO,NO,peer to peer,Model B,YES
+Male,Female,63,NO,YES,YES,NO,Teachers explanation,Model C,NO
+Female,Female,61,NO,YES,YES,NO,peer to peer,Model A,NO
+Female,Male,63,YES,YES,NO,YES,YouTube,Model A,YES
+Male,Female,41,YES,NO,NO,NO,Teachers explanation,Model B,YES
+Female,Male,56,YES,NO,YES,YES,Google search,Model B,YES
+Female,Female,54,YES,YES,YES,NO,Teachers explanation,Model C,YES
+Female,Male,56,YES,NO,NO,NO,Teachers explanation,Model A,NO
+Male,Male,64,YES,NO,YES,NO,Teachers explanation,Model C,NO
+Female,Female,63,YES,NO,YES,NO,Books,Model A,YES
+Female,Female,62,YES,NO,NO,NO,Google search,Model B,YES
+Male,Male,48,NO,NO,NO,NO,Google search,Model C,YES
+Male,Female,65,YES,NO,NO,YES,YouTube,Model C,NO
+Female,Female,35,YES,NO,NO,YES,Books,Model C,YES
+Female,Male,32,YES,YES,NO,NO,peer to peer,Model A,YES
+Female,Female,54,NO,YES,NO,NO,peer to peer,Model C,YES
+Male,Male,60,NO,YES,YES,NO,Teachers explanation,Model B,YES
+Female,Male,33,YES,NO,NO,YES,Google search,Model A,NO
+Female,Female,31,NO,YES,YES,YES,YouTube,Model A,NO
+Male,Male,38,NO,NO,YES,YES,peer to peer,Model A,YES
+Female,Female,58,NO,NO,YES,NO,Google search,Model C,YES
+Male,Male,27,NO,YES,NO,NO,Books,Model B,NO
+Female,Male,48,NO,YES,NO,NO,YouTube,Model A,YES
+Female,Male,31,YES,NO,NO,YES,Google search,Model C,YES
+Female,Female,38,YES,YES,NO,NO,Google search,Model C,NO
+Female,Male,30,NO,NO,NO,NO,Books,Model A,YES
+Female,Female,61,NO,NO,YES,NO,Books,Model C,NO
+Female,Male,33,YES,YES,YES,YES,Books,Model B,NO
+Male,Female,30,YES,NO,NO,YES,Google search,Model B,NO
+Female,Female,65,NO,YES,NO,YES,peer to peer,Model A,NO
+Male,Female,58,NO,YES,NO,YES,YouTube,Model A,NO
+Male,Male,33,NO,YES,YES,YES,Teachers explanation,Model B,YES
+Female,Male,46,NO,YES,NO,NO,Google search,Model A,YES
+Male,Male,50,NO,NO,NO,YES,Teachers explanation,Model B,YES
+Female,Female,39,YES,NO,YES,NO,Books,Model A,NO
+Female,Male,54,YES,YES,NO,NO,Books,Model B,YES
+Male,Female,60,NO,NO,NO,YES,Google search,Model C,YES
+Female,Female,39,NO,NO,YES,NO,Teachers explanation,Model A,NO
+Male,Female,63,NO,NO,YES,NO,Google search,Model B,NO
+Male,Female,42,YES,NO,NO,NO,YouTube,Model B,NO
+Female,Male,26,YES,NO,NO,NO,Teachers explanation,Model B,NO
+Female,Female,28,NO,YES,YES,NO,Teachers explanation,Model B,NO
+Male,Male,62,YES,NO,NO,NO,YouTube,Model C,YES
+Male,Female,39,NO,YES,NO,YES,Books,Model A,NO
+Female,Male,30,NO,NO,NO,NO,Teachers explanation,Model A,NO
+Male,Female,62,YES,YES,YES,NO,Teachers explanation,Model C,NO
+Female,Male,53,NO,NO,NO,NO,Teachers explanation,Model B,YES
+Male,Female,50,NO,YES,NO,YES,YouTube,Model A,NO
+Male,Male,56,NO,YES,YES,NO,Google search,Model C,NO
+Male,Female,49,NO,YES,YES,YES,Books,Model A,YES
+Male,Male,27,YES,NO,NO,NO,YouTube,Model A,NO
+Female,Male,36,YES,NO,NO,NO,YouTube,Model C,YES
+Male,Female,34,YES,YES,NO,YES,YouTube,Model A,YES
+Female,Male,54,NO,NO,NO,YES,Teachers explanation,Model A,NO
+Male,Male,57,YES,NO,YES,YES,peer to peer,Model A,YES
+Female,Female,37,YES,NO,NO,NO,Teachers explanation,Model B,NO
+Female,Female,62,NO,YES,YES,NO,Teachers explanation,Model B,YES
+Male,Female,59,YES,YES,YES,NO,Google search,Model B,NO
+Male,Female,26,YES,YES,YES,YES,Google search,Model C,YES
+Female,Female,36,YES,YES,NO,NO,peer to peer,Model A,YES
+Female,Female,34,NO,NO,NO,NO,Google search,Model B,NO
+Male,Male,32,YES,NO,YES,YES,Teachers explanation,Model C,NO
+Female,Male,41,NO,YES,NO,YES,peer to peer,Model B,YES
+Male,Male,59,NO,YES,NO,NO,peer to peer,Model A,NO
+Female,Female,53,YES,YES,YES,YES,YouTube,Model A,NO
+Male,Female,60,YES,YES,YES,YES,Google search,Model B,NO
+Male,Male,53,NO,YES,NO,NO,Teachers explanation,Model B,NO
+Female,Female,43,YES,YES,YES,YES,Books,Model C,NO
+Female,Female,52,NO,YES,NO,YES,peer to peer,Model C,NO
+Male,Male,51,NO,YES,NO,NO,Google search,Model C,YES
+Male,Male,44,YES,NO,YES,YES,peer to peer,Model A,YES
+Male,Male,57,YES,YES,NO,NO,Google search,Model C,YES
+Male,Male,52,NO,YES,NO,YES,peer to peer,Model B,YES
+Male,Female,39,YES,YES,NO,NO,Google search,Model C,NO
+Male,Female,62,YES,YES,NO,NO,YouTube,Model A,YES
+Male,Male,62,YES,YES,YES,NO,Books,Model B,NO
+Female,Male,61,NO,YES,YES,YES,Books,Model B,YES
+Male,Male,33,NO,YES,YES,NO,Teachers explanation,Model C,YES
+Male,Male,29,NO,NO,NO,NO,Teachers explanation,Model C,NO
+Female,Female,28,NO,NO,YES,YES,YouTube,Model C,NO
+Female,Female,50,YES,NO,YES,YES,Google search,Model B,YES
+Male,Female,29,YES,YES,NO,YES,Teachers explanation,Model C,YES
+Male,Female,56,NO,YES,NO,YES,peer to peer,Model A,NO
+Male,Female,60,YES,NO,NO,YES,Books,Model A,NO
+Female,Female,64,YES,NO,YES,YES,peer to peer,Model C,YES
+Female,Male,29,NO,NO,NO,NO,Google search,Model C,YES
+Male,Female,55,NO,YES,NO,YES,Books,Model B,NO
+Male,Male,50,NO,YES,NO,NO,YouTube,Model A,YES
+Female,Male,44,YES,NO,YES,NO,Google search,Model B,NO
+Female,Female,54,NO,YES,NO,YES,Google search,Model C,YES
+Male,Female,57,NO,NO,NO,NO,Teachers explanation,Model B,YES
+Male,Female,29,YES,NO,YES,YES,Teachers explanation,Model A,YES
+Male,Male,31,YES,YES,YES,YES,YouTube,Model A,NO
+Female,Female,44,NO,YES,NO,YES,Google search,Model B,NO
+Female,Female,55,YES,NO,YES,YES,peer to peer,Model A,NO
+Male,Female,30,YES,NO,YES,NO,peer to peer,Model C,YES
+Female,Female,59,YES,NO,YES,YES,YouTube,Model B,NO
+Female,Female,47,NO,NO,YES,YES,Google search,Model C,NO
+Female,Female,55,YES,NO,NO,NO,Teachers explanation,Model C,YES
+Female,Male,45,YES,NO,YES,NO,YouTube,Model C,YES
+Male,Male,34,NO,NO,YES,NO,Teachers explanation,Model B,NO
+Female,Male,27,YES,NO,YES,NO,Teachers explanation,Model B,NO
+Male,Male,28,NO,YES,YES,YES,Teachers explanation,Model B,NO
+Male,Female,33,NO,YES,YES,NO,Teachers explanation,Model B,YES
+Female,Male,25,NO,YES,NO,NO,Google search,Model C,NO
+Male,Male,61,YES,YES,NO,YES,peer to peer,Model C,YES
+Male,Male,38,NO,NO,NO,YES,Books,Model C,NO
+Male,Female,30,NO,NO,YES,YES,YouTube,Model A,YES
+Male,Female,30,YES,NO,YES,NO,Teachers explanation,Model C,YES
+Male,Male,50,NO,YES,NO,NO,YouTube,Model A,YES
+Female,Female,26,YES,NO,YES,NO,Teachers explanation,Model B,YES
+Male,Male,51,NO,NO,NO,NO,Books,Model C,NO
+Male,Male,49,NO,YES,NO,YES,Google search,Model A,YES
+Female,Male,48,NO,YES,NO,YES,Teachers explanation,Model B,YES
+Female,Female,46,NO,YES,YES,YES,peer to peer,Model A,NO
+Male,Male,31,YES,NO,NO,NO,YouTube,Model B,NO
+Male,Female,30,NO,YES,YES,YES,peer to peer,Model A,NO
+Male,Male,65,YES,NO,NO,YES,Google search,Model A,NO
+Female,Female,24,NO,YES,YES,YES,YouTube,Model C,NO
+Male,Male,31,YES,YES,YES,NO,YouTube,Model C,NO
+Female,Male,63,YES,YES,YES,YES,Books,Model A,YES
+Male,Female,64,YES,YES,NO,NO,Teachers explanation,Model B,YES
+Male,Female,49,YES,YES,NO,NO,Books,Model A,NO
+Female,Female,62,NO,NO,NO,NO,YouTube,Model A,YES
+Female,Female,63,YES,YES,YES,YES,Books,Model A,NO
+Male,Male,47,NO,NO,NO,YES,Google search,Model C,NO
+Male,Male,36,NO,NO,NO,NO,Google search,Model A,NO
+Male,Male,32,NO,YES,YES,YES,Books,Model B,NO
+Male,Male,51,YES,YES,NO,NO,Teachers explanation,Model B,YES
+Male,Female,39,NO,NO,NO,NO,YouTube,Model C,NO
+Male,Male,45,YES,NO,YES,YES,YouTube,Model B,NO
+Male,Male,47,YES,NO,YES,YES,Google search,Model A,NO
+Female,Female,42,YES,NO,NO,YES,peer to peer,Model A,NO
 Male,Female,49,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Male,57,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Female,44,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,58,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,28,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Male,30,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,55,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Female,65,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,43,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,63,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Female,29,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,42,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,45,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,63,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,25,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,49,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Female,63,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,63,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Female,46,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,65,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,31,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,43,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Female,61,YES,YES,YES,YES,Google search,Model A,YES
-Female,Male,42,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,57,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Female,54,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,44,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Female,61,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,24,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,43,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Male,27,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,61,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Female,46,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,51,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,49,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Male,60,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Female,39,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,34,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,57,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Female,62,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,27,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Male,28,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,65,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Female,47,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Female,45,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,38,NO,NO,NO,NO,Books,Model A,NO
-Female,Female,51,NO,NO,NO,NO,Google search,Model B,NO
-Female,Male,60,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,52,NO,NO,NO,NO,Books,Model A,NO
-Female,Female,43,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,29,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,62,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Female,53,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,29,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,47,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Male,45,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,35,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,51,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,56,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Male,41,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,47,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Female,51,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Female,29,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,29,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,35,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,54,NO,NO,NO,NO,Google search,Model B,NO
-Male,Female,35,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,34,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,36,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,42,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Female,31,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,36,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Male,38,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Male,46,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,43,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,27,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,31,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,63,YES,YES,YES,YES,Google search,Model A,YES
-Female,Male,45,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,61,YES,YES,YES,YES,Google search,Model A,YES
-Female,Male,25,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,48,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Male,47,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Male,65,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,35,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,25,NO,NO,NO,NO,Books,Model A,NO
-Female,Female,32,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,39,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,50,YES,YES,YES,YES,Books,Model A,YES
-Female,Male,58,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,33,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Female,57,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Female,40,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,30,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,41,YES,YES,YES,YES,Books,Model A,YES
-Male,Female,38,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,61,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,62,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,37,NO,NO,NO,NO,Google search,Model C,NO
-Male,Male,44,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Female,59,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,25,YES,YES,YES,YES,Google search,Model A,YES
-Male,Female,41,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Male,59,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,38,YES,YES,YES,YES,Books,Model A,YES
-Male,Female,27,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,33,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Male,32,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Male,56,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,59,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,48,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Male,40,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Female,32,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,35,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Male,31,YES,YES,YES,YES,Books,Model A,YES
-Female,Male,49,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Male,28,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,49,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,64,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Female,44,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Male,52,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,27,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,64,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,57,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,33,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,53,YES,YES,YES,YES,peer to peer,Model C,YES
-Female,Female,44,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Male,30,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,43,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,27,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,65,NO,NO,NO,NO,Google search,Model C,NO
-Female,Male,32,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,42,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,59,YES,YES,YES,YES,Books,Model A,YES
-Male,Female,53,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Male,38,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,32,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Male,34,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,51,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,49,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,55,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,52,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,38,YES,YES,YES,YES,Google search,Model B,YES
-Female,Female,24,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,61,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,53,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,39,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,26,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,28,YES,YES,YES,YES,Google search,Model C,YES
-Female,Female,29,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,43,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Female,Male,45,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Female,24,NO,NO,NO,NO,Books,Model A,NO
-Female,Female,27,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,38,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,37,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,38,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,37,NO,NO,NO,NO,Google search,Model B,NO
-Male,Male,50,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,36,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,40,NO,NO,NO,NO,Books,Model A,NO
-Female,Female,24,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Male,51,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,43,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,32,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Female,65,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Female,48,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,58,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Female,47,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,64,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,53,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Female,24,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,62,NO,NO,NO,NO,Books,Model B,NO
-Female,Female,43,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,38,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,64,YES,YES,YES,YES,Google search,Model B,YES
-Male,Female,39,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Male,24,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,48,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Female,58,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,64,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Female,42,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,46,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Female,49,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Female,45,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,48,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,47,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,40,YES,YES,YES,YES,Books,Model C,YES
-Male,Female,53,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,33,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,56,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,56,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,53,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,38,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,47,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,42,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,53,NO,NO,NO,NO,Google search,Model A,NO
-Male,Female,45,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Male,61,YES,YES,YES,YES,Google search,Model B,YES
-Male,Male,42,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Male,53,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Male,28,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Female,35,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,49,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,38,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,50,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Male,60,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,60,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Male,59,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,30,YES,YES,YES,YES,Google search,Model A,YES
-Female,Female,51,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,53,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,60,NO,NO,NO,NO,Google search,Model B,NO
-Male,Female,40,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,38,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,44,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,51,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,33,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Female,61,YES,YES,YES,YES,Books,Model A,YES
-Female,Male,42,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,42,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,36,YES,YES,YES,YES,peer to peer,Model C,YES
-Female,Male,50,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,60,NO,NO,NO,NO,Teachers explanation,Model B,NO
-Male,Male,54,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,43,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,47,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,44,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Male,48,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,57,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,26,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Male,57,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,31,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,28,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,39,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Female,34,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,62,YES,YES,YES,YES,Google search,Model A,YES
-Female,Male,61,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Female,47,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,39,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,56,YES,YES,YES,YES,Books,Model B,YES
-Male,Male,61,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,52,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,32,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Male,41,YES,YES,YES,YES,peer to peer,Model C,YES
-Female,Female,63,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Male,58,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,39,YES,YES,YES,YES,Google search,Model C,YES
-Female,Male,39,YES,YES,YES,YES,Books,Model A,YES
-Female,Female,35,NO,NO,NO,NO,YouTube,Model A,NO
-Male,Male,43,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Female,25,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,38,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,58,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,27,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Male,31,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,45,NO,NO,NO,NO,Books,Model B,NO
-Male,Female,45,NO,NO,NO,NO,Google search,Model C,NO
-Male,Male,55,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,30,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Male,34,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,39,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Male,56,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Female,Male,36,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,34,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,34,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,58,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Male,64,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,29,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,56,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Female,31,YES,YES,YES,YES,Google search,Model C,YES
-Female,Female,59,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,34,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,44,NO,NO,NO,NO,YouTube,Model A,NO
-Female,Male,37,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Female,40,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Male,Female,43,NO,NO,NO,NO,Google search,Model A,NO
-Male,Female,38,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,29,YES,YES,YES,YES,peer to peer,Model A,YES
-Male,Male,55,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,56,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,46,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,30,NO,NO,NO,NO,peer to peer,Model B,NO
-Male,Male,61,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,36,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,47,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,55,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,24,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Male,58,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,40,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,48,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,33,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Male,32,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,33,YES,YES,YES,YES,YouTube,Model A,YES
-Female,Male,52,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Female,33,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,64,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Male,65,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,47,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Male,24,NO,NO,NO,NO,Google search,Model B,NO
-Male,Male,49,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,35,YES,YES,YES,YES,Books,Model A,YES
-Male,Male,64,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,62,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,24,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Male,37,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Male,48,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,37,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Male,26,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Female,43,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Female,51,NO,NO,NO,NO,Google search,Model C,NO
-Male,Female,29,NO,NO,NO,NO,Books,Model A,NO
-Female,Female,24,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,64,NO,NO,NO,NO,YouTube,Model C,NO
-Male,Male,61,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Male,61,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,30,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,46,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Male,46,NO,NO,NO,NO,Google search,Model A,NO
-Female,Male,33,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,38,YES,YES,YES,YES,Books,Model B,YES
-Female,Male,59,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Male,40,NO,NO,NO,NO,Books,Model B,NO
+Female,Male,49,NO,YES,NO,YES,Books,Model C,YES
+Male,Female,27,NO,NO,NO,NO,peer to peer,Model A,NO
+Male,Male,45,YES,NO,YES,YES,Books,Model B,NO
+Female,Male,31,NO,NO,YES,NO,Teachers explanation,Model C,YES
+Female,Male,56,YES,NO,NO,NO,YouTube,Model B,NO
+Male,Male,62,NO,NO,YES,YES,Google search,Model C,NO
+Male,Female,48,YES,NO,YES,NO,Teachers explanation,Model A,NO
+Female,Male,38,YES,YES,NO,NO,YouTube,Model C,YES
+Female,Female,60,YES,NO,NO,YES,peer to peer,Model A,NO
+Male,Female,24,NO,YES,NO,NO,peer to peer,Model A,YES
+Female,Male,65,YES,YES,YES,YES,peer to peer,Model C,NO
+Female,Female,43,NO,YES,YES,NO,Books,Model C,YES
+Female,Male,51,NO,NO,YES,YES,YouTube,Model A,NO
+Male,Male,43,YES,NO,NO,YES,Books,Model C,YES
+Male,Male,35,NO,YES,YES,NO,Teachers explanation,Model C,YES
+Male,Female,60,YES,YES,YES,NO,Books,Model A,NO
+Female,Male,61,NO,NO,YES,NO,Books,Model A,YES
+Male,Female,64,NO,YES,YES,NO,Books,Model B,NO
+Female,Female,35,NO,NO,YES,NO,Teachers explanation,Model C,NO
+Male,Female,32,NO,NO,YES,NO,Google search,Model A,YES
+Male,Male,43,YES,YES,YES,YES,YouTube,Model A,NO
+Female,Male,34,NO,YES,YES,YES,Books,Model C,NO
+Male,Male,25,YES,NO,YES,YES,YouTube,Model B,YES
+Male,Male,56,YES,NO,NO,NO,YouTube,Model C,NO
+Male,Male,62,YES,YES,YES,YES,peer to peer,Model A,YES
+Female,Female,38,YES,YES,NO,NO,Google search,Model B,YES
+Female,Female,49,YES,YES,YES,NO,Google search,Model A,NO
+Female,Male,45,YES,YES,NO,YES,Books,Model B,YES
+Female,Male,50,YES,NO,NO,NO,Teachers explanation,Model A,YES
+Female,Female,44,YES,NO,YES,YES,YouTube,Model B,NO
+Male,Male,57,NO,YES,YES,NO,peer to peer,Model A,YES
+Male,Male,37,NO,NO,YES,YES,peer to peer,Model A,YES
+Male,Female,58,YES,YES,YES,YES,peer to peer,Model A,NO
+Female,Female,45,YES,YES,YES,NO,Books,Model C,YES
+Female,Male,37,NO,YES,NO,NO,Teachers explanation,Model C,YES
+Male,Male,50,NO,NO,YES,YES,peer to peer,Model A,YES
+Female,Female,30,NO,NO,YES,NO,Books,Model B,YES
+Female,Female,41,YES,NO,YES,YES,peer to peer,Model A,NO
 Male,Female,59,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,27,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,40,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,39,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,35,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Female,Female,26,YES,YES,YES,YES,Books,Model A,YES
-Male,Male,35,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,26,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,34,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,42,NO,NO,NO,NO,Books,Model C,NO
-Female,Female,53,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,53,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Female,62,YES,YES,YES,YES,Google search,Model A,YES
-Male,Male,59,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,45,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,46,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Female,47,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,41,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Female,25,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Female,31,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,50,NO,NO,NO,NO,Books,Model C,NO
-Male,Female,57,YES,YES,YES,YES,Books,Model A,YES
-Male,Male,45,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Male,28,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Female,Female,54,NO,NO,NO,NO,Books,Model B,NO
-Male,Male,42,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,45,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Female,33,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Male,41,YES,YES,YES,YES,YouTube,Model C,YES
-Female,Male,54,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Male,36,YES,YES,YES,YES,Books,Model C,YES
-Female,Female,37,YES,YES,YES,YES,Google search,Model B,YES
-Female,Female,25,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,46,YES,YES,YES,YES,Teachers explanation,Model B,YES
-Female,Male,51,NO,NO,NO,NO,peer to peer,Model C,NO
-Male,Female,56,YES,YES,YES,YES,YouTube,Model C,YES
-Male,Female,37,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Male,61,NO,NO,NO,NO,peer to peer,Model C,NO
-Female,Female,58,YES,YES,YES,YES,YouTube,Model A,YES
-Male,Male,58,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Female,40,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Female,60,NO,NO,NO,NO,Google search,Model C,NO
-Female,Male,43,NO,NO,NO,NO,peer to peer,Model A,NO
-Male,Female,30,YES,YES,YES,YES,Books,Model B,YES
-Male,Female,58,YES,YES,YES,YES,YouTube,Model B,YES
-Female,Male,42,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,54,YES,YES,YES,YES,Books,Model A,YES
-Female,Female,60,NO,NO,NO,NO,YouTube,Model B,NO
-Male,Male,42,NO,NO,NO,NO,Books,Model B,NO
-Female,Male,52,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Female,42,NO,NO,NO,NO,Teachers explanation,Model A,NO
-Male,Male,51,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,52,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,65,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Female,34,YES,YES,YES,YES,Google search,Model C,YES
-Male,Male,54,NO,NO,NO,NO,Google search,Model A,NO
-Male,Female,36,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Male,28,NO,NO,NO,NO,Google search,Model A,NO
-Male,Female,58,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,31,NO,NO,NO,NO,Google search,Model B,NO
-Female,Female,48,YES,YES,YES,YES,Teachers explanation,Model A,YES
-Male,Male,65,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,56,YES,YES,YES,YES,peer to peer,Model A,YES
-Female,Female,64,YES,YES,YES,YES,peer to peer,Model C,YES
-Male,Female,34,YES,YES,YES,YES,Google search,Model B,YES
-Female,Male,63,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,37,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,29,NO,NO,NO,NO,Books,Model A,NO
-Female,Male,59,NO,NO,NO,NO,Google search,Model C,NO
-Female,Female,58,YES,YES,YES,YES,Google search,Model C,YES
-Male,Female,61,YES,YES,YES,YES,peer to peer,Model B,YES
-Female,Female,49,NO,NO,NO,NO,Books,Model C,NO
-Male,Male,37,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Male,35,NO,NO,NO,NO,peer to peer,Model B,NO
-Female,Female,43,NO,NO,NO,NO,Google search,Model A,NO
-Female,Female,28,YES,YES,YES,YES,Books,Model B,YES
-Female,Female,26,YES,YES,YES,YES,Books,Model C,YES
-Male,Female,58,NO,NO,NO,NO,YouTube,Model B,NO
-Female,Female,53,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Male,Male,58,YES,YES,YES,YES,peer to peer,Model B,YES
-Male,Male,36,YES,YES,YES,YES,YouTube,Model B,YES
-Male,Male,63,YES,YES,YES,YES,Google search,Model C,YES
-Female,Female,62,YES,YES,YES,YES,Teachers explanation,Model C,YES
-Female,Male,54,NO,NO,NO,NO,Books,Model A,NO
-Male,Female,39,NO,NO,NO,NO,Google search,Model A,NO
-Male,Male,51,YES,YES,YES,YES,Books,Model C,YES
-Female,Male,41,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,43,NO,NO,NO,NO,Google search,Model B,NO
-Male,Male,50,NO,NO,NO,NO,Books,Model A,NO
-Male,Male,48,NO,NO,NO,NO,YouTube,Model C,NO
-Female,Female,47,NO,NO,NO,NO,peer to peer,Model A,NO
-Female,Male,40,NO,NO,NO,NO,Teachers explanation,Model C,NO
-Male,Male,30,NO,NO,NO,NO,peer to peer,Model A,NO
+Female,Female,65,YES,YES,YES,YES,Google search,Model C,YES
+Male,Male,56,YES,YES,YES,NO,YouTube,Model A,YES
+Male,Female,29,NO,NO,NO,YES,Books,Model C,NO
+Male,Female,25,YES,YES,NO,YES,Books,Model A,YES
+Male,Male,40,YES,YES,NO,NO,YouTube,Model C,NO
+Female,Male,54,NO,YES,NO,YES,Google search,Model B,YES
+Male,Female,35,YES,YES,YES,YES,Teachers explanation,Model A,YES
+Male,Male,41,YES,NO,NO,YES,Teachers explanation,Model A,NO
+Female,Male,48,NO,YES,NO,YES,Teachers explanation,Model A,NO
+Female,Female,33,YES,YES,NO,YES,YouTube,Model C,YES
+Male,Male,41,NO,NO,YES,NO,Books,Model B,NO
+Male,Female,52,YES,YES,NO,NO,peer to peer,Model C,YES
+Male,Female,42,NO,YES,YES,NO,YouTube,Model A,NO
+Female,Male,56,YES,NO,NO,NO,Google search,Model C,YES
+Female,Male,34,NO,YES,NO,YES,YouTube,Model C,YES
+Female,Female,49,NO,YES,NO,YES,Google search,Model C,NO
+Female,Male,39,YES,NO,NO,NO,Google search,Model C,NO
+Female,Male,42,NO,YES,NO,YES,Books,Model A,NO
+Female,Female,37,NO,NO,YES,YES,Google search,Model A,YES
+Female,Male,35,NO,NO,NO,YES,Google search,Model A,NO
+Female,Male,24,NO,NO,YES,YES,YouTube,Model A,YES
+Female,Female,27,NO,YES,YES,YES,Google search,Model A,NO
+Male,Female,30,YES,YES,NO,YES,YouTube,Model A,YES
+Male,Male,56,NO,NO,NO,NO,Teachers explanation,Model A,NO
+Male,Female,57,YES,NO,NO,YES,Google search,Model A,NO
+Female,Female,41,NO,YES,YES,YES,Google search,Model B,YES
+Male,Female,31,NO,NO,YES,YES,peer to peer,Model A,YES
+Female,Female,58,YES,YES,YES,NO,peer to peer,Model A,YES
+Male,Female,52,NO,NO,NO,YES,YouTube,Model C,NO
+Male,Female,45,NO,YES,NO,YES,Teachers explanation,Model A,NO
+Male,Female,49,NO,NO,NO,YES,Teachers explanation,Model C,YES
+Male,Female,27,NO,YES,YES,YES,Books,Model C,YES
+Female,Male,43,YES,NO,YES,NO,YouTube,Model B,YES
+Female,Male,55,NO,YES,YES,YES,peer to peer,Model A,YES
+Male,Male,27,YES,YES,NO,YES,peer to peer,Model C,YES
+Female,Female,63,YES,YES,NO,YES,Google search,Model B,YES
+Male,Male,45,YES,YES,YES,NO,YouTube,Model A,NO
+Male,Female,56,NO,NO,YES,NO,Teachers explanation,Model A,YES
+Male,Female,55,YES,YES,YES,YES,peer to peer,Model B,YES
+Female,Female,55,YES,NO,YES,YES,Google search,Model C,NO
+Male,Male,60,YES,YES,YES,YES,Books,Model A,YES
+Female,Female,49,NO,YES,NO,NO,Google search,Model C,NO
+Female,Male,64,NO,YES,NO,YES,Teachers explanation,Model A,NO
+Female,Male,43,NO,YES,NO,NO,Books,Model C,YES
+Male,Male,62,YES,YES,YES,YES,Teachers explanation,Model A,YES
+Male,Male,34,NO,YES,YES,YES,Books,Model B,NO
+Male,Female,36,YES,NO,NO,YES,Google search,Model B,NO
+Male,Male,46,YES,NO,YES,YES,YouTube,Model A,NO
+Male,Female,57,YES,YES,NO,NO,Teachers explanation,Model B,YES
+Male,Male,53,YES,YES,YES,NO,Books,Model A,NO
+Female,Male,32,NO,NO,YES,NO,Books,Model C,YES
+Male,Male,35,NO,NO,YES,NO,Teachers explanation,Model C,YES
+Female,Female,62,NO,NO,YES,YES,Teachers explanation,Model A,NO
+Female,Male,32,YES,YES,NO,YES,YouTube,Model C,YES
+Female,Male,25,NO,NO,NO,YES,Google search,Model A,NO
+Male,Male,64,YES,NO,YES,YES,Books,Model B,NO
+Male,Female,64,YES,NO,NO,YES,Google search,Model C,YES
+Male,Male,63,YES,NO,YES,NO,Google search,Model B,NO
+Male,Male,49,YES,NO,NO,NO,Google search,Model C,NO
+Female,Male,40,NO,YES,YES,YES,Google search,Model A,NO
+Female,Female,47,YES,YES,NO,YES,YouTube,Model B,YES
+Female,Female,33,NO,NO,YES,YES,peer to peer,Model C,YES
+Male,Male,38,YES,YES,YES,YES,Books,Model B,NO
+Female,Female,39,YES,YES,YES,NO,YouTube,Model C,YES
+Female,Male,54,NO,YES,YES,YES,Google search,Model B,NO
+Male,Male,51,NO,NO,NO,YES,YouTube,Model C,YES
+Female,Female,48,NO,NO,NO,NO,peer to peer,Model B,NO
+Female,Female,36,YES,YES,NO,YES,peer to peer,Model A,NO
+Male,Male,31,NO,YES,NO,NO,peer to peer,Model B,NO
+Male,Female,47,YES,NO,NO,YES,Books,Model B,NO
+Male,Male,52,YES,YES,YES,NO,peer to peer,Model B,YES
+Male,Male,55,NO,YES,YES,YES,peer to peer,Model B,YES
+Male,Female,32,YES,YES,NO,YES,Books,Model B,YES
+Male,Male,35,NO,NO,YES,NO,peer to peer,Model A,YES
+Male,Male,51,NO,YES,YES,NO,Google search,Model C,NO
+Male,Female,52,YES,YES,YES,NO,YouTube,Model B,NO
+Male,Female,25,NO,YES,NO,NO,YouTube,Model C,YES
+Male,Male,59,NO,NO,NO,NO,Books,Model A,NO
+Male,Female,43,YES,YES,YES,NO,peer to peer,Model C,YES
+Male,Female,36,YES,YES,YES,YES,Books,Model A,YES
+Male,Male,30,NO,NO,NO,NO,peer to peer,Model C,NO
+Female,Male,38,NO,NO,NO,NO,Teachers explanation,Model B,NO
+Male,Female,41,YES,NO,YES,YES,Google search,Model A,YES
+Male,Male,58,NO,YES,NO,YES,YouTube,Model C,NO
+Female,Female,35,NO,YES,YES,YES,Google search,Model B,NO
+Female,Female,59,YES,YES,NO,YES,Google search,Model C,NO
+Male,Female,31,YES,YES,NO,YES,peer to peer,Model B,NO
+Female,Female,24,NO,YES,NO,NO,Google search,Model C,YES
+Male,Female,38,YES,NO,NO,YES,Books,Model A,YES
+Male,Female,43,YES,NO,YES,YES,Google search,Model C,YES
+Male,Male,33,YES,NO,NO,NO,YouTube,Model B,NO
+Female,Female,30,YES,YES,NO,YES,Books,Model C,NO
+Male,Female,44,YES,NO,NO,NO,Google search,Model B,NO
+Male,Male,48,YES,NO,YES,YES,YouTube,Model B,NO
+Female,Female,40,YES,YES,NO,NO,Google search,Model C,YES
+Female,Female,44,NO,YES,NO,NO,Google search,Model A,YES
+Female,Male,34,NO,NO,NO,YES,peer to peer,Model B,NO
+Male,Male,35,NO,NO,YES,YES,YouTube,Model B,YES
+Female,Female,64,YES,NO,YES,YES,Books,Model B,YES
+Female,Male,41,NO,NO,NO,YES,Google search,Model C,YES
+Female,Male,29,YES,NO,YES,YES,Google search,Model C,YES
+Female,Male,32,YES,YES,YES,YES,peer to peer,Model B,YES
+Female,Male,46,YES,YES,YES,NO,Books,Model C,NO
+Female,Male,61,YES,NO,NO,NO,Teachers explanation,Model B,YES
+Female,Female,34,YES,NO,NO,NO,peer to peer,Model A,YES
+Female,Male,62,YES,NO,YES,YES,Google search,Model B,NO
+Male,Male,53,YES,YES,YES,YES,YouTube,Model A,NO
+Male,Female,48,YES,NO,NO,YES,YouTube,Model B,YES
+Female,Female,59,YES,YES,YES,YES,Books,Model A,YES
+Female,Male,45,YES,NO,YES,YES,peer to peer,Model C,NO
+Male,Male,56,NO,YES,NO,NO,YouTube,Model B,NO
+Male,Female,53,NO,YES,YES,NO,Books,Model A,YES
+Female,Male,44,YES,NO,NO,NO,Teachers explanation,Model C,YES
+Male,Male,43,YES,YES,YES,NO,Google search,Model C,YES
+Male,Female,47,YES,NO,YES,NO,Google search,Model A,YES
+Female,Female,63,NO,YES,NO,NO,Books,Model B,YES
+Male,Male,52,YES,NO,YES,YES,Teachers explanation,Model B,YES
+Male,Female,34,YES,YES,NO,YES,Teachers explanation,Model A,YES
+Female,Female,49,NO,YES,YES,NO,Teachers explanation,Model C,YES
+Male,Male,41,YES,NO,NO,YES,YouTube,Model A,NO
+Female,Male,25,YES,NO,NO,NO,Google search,Model C,YES
+Female,Male,55,NO,YES,YES,YES,Teachers explanation,Model B,NO
+Male,Female,30,YES,NO,NO,YES,peer to peer,Model C,NO
+Female,Female,49,NO,YES,YES,NO,peer to peer,Model C,NO
+Female,Female,40,NO,YES,YES,YES,peer to peer,Model C,YES
+Female,Female,52,NO,NO,NO,NO,peer to peer,Model B,YES
+Female,Female,41,YES,NO,NO,YES,YouTube,Model A,NO
+Female,Male,28,NO,NO,NO,YES,Teachers explanation,Model B,YES
+Female,Female,35,NO,NO,NO,NO,Google search,Model C,NO
+Male,Female,59,YES,YES,YES,NO,Books,Model C,YES
+Male,Male,40,NO,YES,YES,NO,Teachers explanation,Model A,YES
+Female,Male,62,YES,YES,YES,NO,peer to peer,Model A,NO
+Female,Male,61,YES,YES,YES,YES,Google search,Model C,YES
+Female,Female,30,YES,NO,YES,NO,peer to peer,Model A,YES
+Male,Female,47,NO,NO,YES,NO,YouTube,Model B,NO
+Female,Female,58,NO,YES,NO,NO,Teachers explanation,Model B,NO
+Male,Female,51,YES,NO,NO,NO,Google search,Model C,YES
+Male,Male,56,YES,YES,NO,NO,Teachers explanation,Model B,NO
+Male,Female,25,YES,YES,NO,YES,peer to peer,Model A,NO
+Male,Female,29,NO,NO,NO,YES,YouTube,Model C,YES
+Male,Female,43,YES,NO,YES,YES,Google search,Model A,NO
+Female,Male,26,YES,NO,NO,YES,peer to peer,Model C,NO
+Female,Male,56,NO,YES,NO,NO,Google search,Model A,NO
+Male,Female,60,YES,YES,YES,NO,YouTube,Model B,YES
+Male,Female,55,YES,NO,NO,YES,YouTube,Model B,YES
+Male,Male,36,NO,NO,YES,YES,Teachers explanation,Model C,NO
+Male,Female,49,YES,YES,NO,YES,peer to peer,Model B,YES
+Male,Female,31,NO,NO,NO,NO,Teachers explanation,Model B,NO
+Male,Female,27,YES,NO,YES,YES,peer to peer,Model A,YES
+Female,Male,56,YES,YES,NO,YES,YouTube,Model C,YES
+Female,Male,50,YES,YES,NO,YES,peer to peer,Model A,NO
+Male,Male,47,NO,NO,NO,NO,Google search,Model C,YES
+Female,Male,38,YES,NO,YES,NO,Google search,Model C,NO
+Female,Female,39,YES,YES,NO,YES,Google search,Model C,YES
+Female,Male,65,YES,YES,YES,NO,YouTube,Model A,YES
+Male,Male,63,NO,NO,YES,YES,Books,Model A,NO
+Male,Female,35,NO,YES,YES,NO,peer to peer,Model C,YES
+Male,Female,46,YES,YES,YES,NO,Teachers explanation,Model B,NO
+Female,Female,42,NO,YES,YES,YES,Teachers explanation,Model A,NO
+Female,Male,48,NO,NO,YES,YES,peer to peer,Model A,NO
+Male,Male,37,NO,YES,YES,YES,YouTube,Model C,YES
+Male,Female,46,YES,YES,YES,NO,Google search,Model A,YES
+Male,Female,55,YES,NO,YES,NO,Teachers explanation,Model C,NO
+Male,Male,32,NO,YES,NO,NO,Books,Model C,YES
+Male,Male,58,YES,YES,YES,YES,Google search,Model C,NO
+Female,Female,49,NO,NO,YES,NO,YouTube,Model A,YES
+Female,Male,39,YES,NO,YES,NO,Books,Model B,NO
+Female,Female,46,NO,YES,NO,YES,Teachers explanation,Model B,YES
+Female,Male,61,YES,YES,YES,YES,Teachers explanation,Model B,NO
+Female,Female,34,YES,YES,NO,YES,peer to peer,Model A,YES
+Female,Female,29,YES,YES,NO,NO,Teachers explanation,Model B,NO
+Female,Female,52,NO,NO,YES,YES,Google search,Model A,NO
+Male,Female,28,YES,NO,YES,NO,Books,Model A,YES
+Male,Female,62,NO,YES,YES,YES,Teachers explanation,Model B,YES
+Male,Female,65,YES,YES,NO,NO,Books,Model B,YES
+Male,Male,54,YES,YES,NO,YES,Books,Model B,YES
+Female,Male,64,NO,NO,NO,NO,peer to peer,Model A,YES
+Male,Male,25,YES,YES,YES,YES,YouTube,Model A,NO
+Female,Male,25,YES,NO,YES,YES,YouTube,Model C,YES
+Female,Male,62,YES,YES,YES,YES,Google search,Model B,YES
+Male,Male,52,YES,YES,YES,NO,YouTube,Model C,NO
+Female,Female,42,YES,NO,YES,NO,Teachers explanation,Model B,NO
+Male,Female,49,YES,YES,YES,NO,Books,Model A,YES
+Male,Male,37,YES,NO,YES,NO,peer to peer,Model B,YES
+Female,Female,50,NO,NO,NO,YES,Books,Model C,YES
+Female,Male,32,NO,NO,YES,YES,Books,Model A,YES
+Male,Male,32,YES,YES,NO,NO,peer to peer,Model C,NO
+Male,Female,34,YES,NO,NO,NO,Teachers explanation,Model A,NO
+Female,Male,37,NO,NO,YES,YES,peer to peer,Model A,YES
+Female,Male,38,YES,YES,YES,YES,Google search,Model A,YES
+Male,Female,32,YES,NO,YES,NO,YouTube,Model C,NO
+Female,Female,26,NO,NO,YES,NO,peer to peer,Model B,NO
+Male,Male,60,NO,YES,NO,YES,Google search,Model C,YES
+Male,Male,50,YES,NO,NO,NO,Books,Model B,YES
+Female,Male,43,NO,YES,YES,NO,Books,Model B,YES
+Male,Male,62,NO,YES,NO,YES,Books,Model C,YES
+Male,Female,35,YES,YES,NO,YES,Teachers explanation,Model A,NO
+Female,Male,64,YES,NO,YES,NO,Books,Model B,NO
+Female,Male,38,NO,YES,YES,NO,Books,Model B,YES
+Female,Female,60,YES,YES,NO,YES,Books,Model B,NO
+Male,Male,62,NO,NO,YES,YES,peer to peer,Model C,NO
+Female,Male,58,YES,YES,YES,YES,Books,Model B,NO
+Female,Male,51,YES,YES,YES,NO,peer to peer,Model A,YES
+Male,Male,62,YES,YES,NO,NO,Google search,Model C,NO
+Female,Male,30,NO,NO,NO,YES,peer to peer,Model B,NO
+Male,Female,43,NO,YES,YES,YES,peer to peer,Model B,YES
+Male,Female,24,NO,NO,YES,NO,Google search,Model C,NO
+Male,Male,53,NO,YES,YES,YES,YouTube,Model C,NO
+Male,Female,61,NO,NO,YES,YES,Books,Model C,NO
+Female,Female,25,NO,NO,YES,NO,peer to peer,Model C,NO
+Female,Female,58,NO,NO,NO,YES,Teachers explanation,Model C,NO
+Female,Female,58,NO,NO,YES,NO,Books,Model A,YES
+Female,Male,47,NO,YES,YES,NO,peer to peer,Model A,NO
+Female,Female,30,YES,YES,YES,YES,Google search,Model B,YES
+Female,Male,53,NO,YES,YES,NO,YouTube,Model C,YES
+Female,Female,49,YES,YES,YES,YES,YouTube,Model C,NO
+Female,Male,46,NO,YES,YES,NO,Google search,Model A,YES
+Male,Male,36,NO,YES,NO,NO,YouTube,Model A,NO
+Female,Female,47,YES,NO,YES,YES,Books,Model A,NO
+Female,Male,53,NO,YES,YES,NO,YouTube,Model C,NO
+Female,Female,61,NO,NO,NO,NO,Books,Model C,NO
+Female,Male,29,NO,NO,NO,NO,peer to peer,Model B,NO
+Male,Male,41,YES,YES,NO,NO,peer to peer,Model A,YES
+Male,Male,26,YES,NO,NO,NO,Google search,Model A,NO
+Male,Female,34,NO,NO,YES,YES,Books,Model A,YES
+Female,Female,26,YES,YES,NO,YES,peer to peer,Model C,NO
+Male,Male,24,YES,YES,NO,YES,YouTube,Model C,NO
+Female,Male,31,NO,NO,YES,YES,YouTube,Model C,NO
+Female,Male,25,NO,NO,YES,NO,YouTube,Model C,YES
+Female,Female,29,YES,NO,YES,YES,peer to peer,Model A,YES
+Male,Male,58,NO,NO,NO,NO,Books,Model A,NO
+Male,Male,51,YES,NO,NO,NO,YouTube,Model A,YES
+Female,Male,55,NO,YES,YES,YES,Google search,Model B,YES
+Male,Male,28,YES,YES,YES,NO,Books,Model B,NO
+Male,Female,53,NO,NO,YES,YES,Google search,Model B,YES
+Male,Male,35,YES,NO,YES,YES,Teachers explanation,Model A,NO
+Female,Female,33,YES,NO,YES,YES,peer to peer,Model A,YES
+Female,Female,46,YES,YES,NO,NO,Teachers explanation,Model C,YES
+Male,Female,32,NO,YES,YES,NO,YouTube,Model A,YES
+Female,Female,65,NO,YES,YES,NO,YouTube,Model C,NO
+Female,Female,37,NO,YES,YES,NO,peer to peer,Model C,YES
+Female,Male,65,NO,NO,NO,YES,Teachers explanation,Model C,NO
+Female,Female,65,NO,YES,YES,YES,Teachers explanation,Model B,YES
+Male,Male,30,NO,NO,NO,NO,YouTube,Model B,NO
+Female,Female,62,YES,YES,NO,YES,Google search,Model C,YES
+Male,Female,64,YES,YES,NO,NO,YouTube,Model C,YES
+Male,Male,51,YES,YES,NO,NO,Teachers explanation,Model C,YES
+Female,Male,52,NO,YES,NO,YES,Teachers explanation,Model B,YES
+Male,Female,25,NO,NO,YES,NO,Teachers explanation,Model B,YES
+Female,Male,41,NO,YES,YES,NO,peer to peer,Model B,NO
+Female,Male,26,NO,YES,YES,YES,peer to peer,Model A,NO
+Male,Female,47,NO,NO,NO,NO,Books,Model A,YES
+Male,Female,60,NO,YES,NO,NO,Books,Model A,YES
+Male,Male,50,NO,YES,YES,YES,YouTube,Model A,NO
+Female,Male,55,NO,YES,NO,NO,Google search,Model B,NO
+Male,Male,41,YES,NO,YES,YES,peer to peer,Model C,YES
+Female,Female,62,NO,YES,NO,NO,Google search,Model B,NO
+Male,Male,28,YES,NO,YES,NO,peer to peer,Model C,NO
+Female,Female,63,NO,YES,NO,YES,Google search,Model A,NO
+Female,Male,37,NO,YES,YES,NO,Google search,Model C,YES
+Male,Male,63,NO,YES,YES,YES,peer to peer,Model A,YES
+Female,Male,44,YES,YES,NO,NO,peer to peer,Model C,YES
+Female,Male,42,NO,NO,YES,YES,Google search,Model C,YES
+Male,Female,58,YES,YES,NO,YES,YouTube,Model B,NO
+Male,Male,49,NO,NO,NO,NO,Google search,Model A,NO
+Male,Female,39,YES,YES,NO,YES,Teachers explanation,Model B,YES
+Female,Male,51,YES,NO,NO,YES,peer to peer,Model C,YES
+Male,Female,38,NO,YES,YES,NO,YouTube,Model B,YES
+Male,Male,60,NO,NO,NO,YES,Google search,Model A,NO
+Female,Female,56,NO,YES,NO,NO,Teachers explanation,Model A,NO
+Male,Male,55,YES,YES,YES,YES,YouTube,Model C,NO
+Female,Female,28,YES,YES,NO,NO,Books,Model C,YES
+Male,Male,50,NO,NO,YES,YES,Books,Model A,NO
+Male,Male,34,YES,NO,NO,NO,Google search,Model A,YES
+Male,Male,59,NO,NO,NO,NO,Books,Model A,NO
+Male,Male,52,YES,NO,NO,YES,YouTube,Model A,NO
+Female,Female,33,YES,YES,NO,NO,peer to peer,Model A,NO
+Female,Female,53,YES,YES,YES,NO,Google search,Model C,YES
+Female,Male,42,NO,YES,YES,YES,Books,Model C,YES
+Female,Male,45,YES,NO,YES,YES,Google search,Model C,YES
+Male,Female,55,NO,NO,NO,YES,Books,Model B,NO
+Male,Male,48,NO,YES,NO,YES,YouTube,Model A,NO
+Female,Male,47,NO,NO,NO,NO,Google search,Model A,NO
+Male,Male,42,NO,NO,YES,NO,Google search,Model B,NO
+Male,Male,34,NO,NO,YES,YES,Teachers explanation,Model A,YES
+Female,Female,45,YES,NO,NO,NO,Google search,Model A,NO
+Male,Male,46,YES,YES,NO,NO,Books,Model C,NO
+Male,Male,61,NO,YES,YES,YES,Google search,Model C,NO
+Female,Female,54,NO,YES,NO,YES,Teachers explanation,Model C,YES
+Female,Male,25,YES,NO,NO,YES,Google search,Model C,YES
+Male,Male,54,YES,YES,NO,NO,peer to peer,Model A,YES
+Female,Female,41,YES,YES,NO,NO,Google search,Model A,YES
+Female,Female,49,YES,YES,YES,YES,Google search,Model C,NO
+Male,Male,58,YES,NO,YES,NO,Google search,Model C,NO
+Male,Female,34,NO,NO,YES,NO,Teachers explanation,Model C,NO
+Male,Female,25,YES,NO,NO,NO,YouTube,Model A,YES
+Male,Female,26,NO,YES,NO,NO,Teachers explanation,Model B,NO
+Male,Male,36,NO,NO,NO,NO,Books,Model C,YES
+Female,Female,33,YES,NO,NO,YES,Google search,Model C,NO
+Female,Male,39,NO,NO,YES,YES,Books,Model C,YES
+Female,Female,48,NO,YES,YES,YES,YouTube,Model A,YES
+Female,Male,29,YES,YES,NO,YES,YouTube,Model C,NO
+Female,Female,30,YES,YES,YES,NO,peer to peer,Model C,NO
+Female,Female,62,NO,YES,NO,YES,Books,Model A,NO
+Male,Female,65,YES,YES,YES,NO,Books,Model C,NO
+Female,Male,26,YES,YES,YES,NO,Teachers explanation,Model A,YES
+Female,Male,41,NO,YES,YES,NO,Books,Model B,NO
+Female,Female,55,YES,NO,YES,NO,peer to peer,Model C,NO
+Male,Female,50,NO,YES,YES,NO,Google search,Model B,NO
+Female,Male,48,YES,NO,YES,YES,Teachers explanation,Model B,YES
+Female,Female,53,NO,NO,NO,YES,Google search,Model C,YES
+Female,Male,46,NO,NO,NO,NO,YouTube,Model B,YES
+Male,Male,59,NO,NO,NO,NO,Books,Model B,NO
+Male,Male,27,YES,NO,YES,YES,Google search,Model C,YES
+Male,Male,26,NO,YES,NO,YES,YouTube,Model A,NO
+Male,Female,47,NO,YES,NO,NO,Teachers explanation,Model A,YES
+Female,Male,31,NO,NO,NO,YES,YouTube,Model C,NO
+Female,Male,33,YES,NO,NO,YES,Google search,Model C,NO
+Female,Male,33,YES,NO,YES,YES,Google search,Model B,YES
+Female,Female,57,YES,NO,YES,NO,Teachers explanation,Model B,YES
+Male,Female,32,YES,NO,NO,YES,YouTube,Model A,NO
+Female,Male,24,NO,YES,NO,NO,Google search,Model C,NO
+Female,Male,52,YES,YES,NO,NO,YouTube,Model A,YES
+Female,Female,24,NO,NO,NO,YES,Google search,Model B,YES
+Female,Male,40,YES,YES,NO,NO,Teachers explanation,Model C,YES
+Male,Male,34,YES,YES,YES,NO,Teachers explanation,Model B,NO
+Female,Female,55,NO,YES,YES,NO,Teachers explanation,Model B,YES
+Male,Female,59,NO,NO,NO,YES,peer to peer,Model C,NO
+Male,Female,49,YES,YES,YES,YES,Books,Model B,YES
+Female,Female,58,YES,YES,YES,NO,YouTube,Model B,NO
+Female,Male,39,YES,YES,YES,NO,Teachers explanation,Model A,YES
+Female,Female,53,YES,NO,YES,YES,Teachers explanation,Model B,YES
+Female,Female,26,NO,NO,YES,YES,peer to peer,Model C,YES
+Male,Male,31,YES,NO,YES,YES,YouTube,Model A,NO
+Female,Male,41,YES,NO,NO,NO,Books,Model C,YES
+Female,Male,34,NO,NO,YES,NO,peer to peer,Model A,NO
+Male,Male,54,NO,NO,NO,NO,Books,Model C,YES
+Female,Male,27,NO,YES,YES,YES,Google search,Model A,NO
+Male,Male,56,NO,NO,YES,NO,Books,Model A,YES
+Male,Male,29,YES,NO,YES,NO,Teachers explanation,Model C,NO
+Male,Male,59,NO,YES,YES,YES,Teachers explanation,Model A,YES
+Female,Male,45,YES,YES,NO,NO,YouTube,Model B,YES
+Male,Male,36,YES,YES,YES,YES,peer to peer,Model C,NO
+Female,Male,46,YES,YES,YES,YES,Teachers explanation,Model A,YES
+Male,Female,42,YES,NO,YES,YES,YouTube,Model A,YES
+Male,Male,60,NO,YES,YES,NO,Books,Model B,YES
+Male,Male,56,NO,YES,NO,YES,Teachers explanation,Model C,NO
+Male,Male,25,YES,YES,NO,NO,Books,Model A,YES
+Male,Male,50,NO,YES,NO,YES,Books,Model B,YES
+Female,Female,27,YES,NO,YES,NO,Google search,Model A,YES
+Female,Female,63,NO,NO,YES,NO,Books,Model A,NO
+Female,Male,30,YES,YES,NO,YES,peer to peer,Model B,YES
+Female,Male,40,NO,NO,YES,YES,Books,Model A,NO
+Female,Female,54,YES,NO,NO,NO,YouTube,Model B,YES
+Female,Female,64,NO,NO,NO,YES,Books,Model A,YES
+Male,Male,44,NO,YES,YES,NO,peer to peer,Model A,NO
+Female,Female,39,NO,NO,YES,YES,YouTube,Model B,YES
+Male,Female,44,YES,NO,YES,NO,Books,Model B,YES
+Male,Male,26,NO,YES,YES,NO,YouTube,Model A,YES
+Female,Female,45,NO,NO,YES,YES,YouTube,Model B,NO
+Male,Female,32,YES,NO,YES,NO,Google search,Model A,YES
+Male,Male,36,YES,YES,YES,NO,YouTube,Model C,NO
+Female,Male,46,NO,YES,YES,YES,peer to peer,Model B,YES
+Female,Male,60,YES,YES,YES,NO,Teachers explanation,Model B,NO
+Female,Female,30,YES,YES,YES,YES,Teachers explanation,Model B,YES
+Male,Female,39,YES,YES,NO,NO,Teachers explanation,Model C,NO
+Female,Male,36,NO,YES,NO,NO,YouTube,Model C,NO
+Female,Female,41,NO,NO,YES,YES,Books,Model B,NO
+Female,Male,34,NO,NO,YES,NO,Books,Model A,NO
+Male,Female,30,NO,NO,YES,YES,peer to peer,Model A,YES
+Male,Male,45,YES,NO,NO,NO,Google search,Model C,YES
+Female,Male,47,YES,NO,NO,NO,Teachers explanation,Model B,NO
+Female,Female,61,NO,YES,YES,NO,Google search,Model B,NO
+Female,Female,36,NO,NO,YES,YES,YouTube,Model C,YES
+Female,Male,37,NO,NO,NO,YES,Google search,Model A,YES
+Male,Female,33,NO,YES,NO,YES,Books,Model A,NO
+Male,Female,52,YES,YES,NO,NO,peer to peer,Model C,NO
+Male,Male,32,NO,NO,NO,NO,Books,Model B,YES
+Female,Male,39,NO,NO,YES,YES,YouTube,Model B,YES
+Female,Male,65,YES,YES,NO,YES,peer to peer,Model B,NO
+Male,Female,54,YES,YES,YES,YES,Google search,Model B,NO
+Male,Female,29,NO,YES,YES,NO,Books,Model A,NO
+Male,Female,55,NO,NO,NO,NO,Teachers explanation,Model A,NO
+Male,Male,46,NO,NO,NO,YES,peer to peer,Model B,NO
+Female,Female,24,NO,NO,YES,NO,YouTube,Model B,YES
+Female,Female,36,YES,NO,NO,NO,Books,Model C,YES
+Female,Female,38,NO,YES,NO,NO,Books,Model C,NO
+Male,Female,54,YES,YES,NO,YES,Books,Model B,YES
+Female,Female,42,NO,NO,NO,NO,Teachers explanation,Model C,NO
+Female,Male,41,NO,YES,NO,NO,Teachers explanation,Model A,NO
+Male,Female,51,NO,NO,YES,YES,peer to peer,Model A,NO
+Male,Male,49,YES,NO,NO,YES,Google search,Model B,NO
+Male,Male,27,YES,NO,YES,YES,Teachers explanation,Model C,NO
+Female,Male,57,NO,NO,YES,YES,Books,Model B,YES
+Male,Male,32,NO,YES,NO,NO,Google search,Model C,NO
+Female,Male,55,YES,YES,NO,NO,Books,Model A,NO
+Female,Male,44,NO,NO,NO,NO,Books,Model C,YES
+Female,Male,36,YES,NO,NO,NO,Google search,Model B,YES
