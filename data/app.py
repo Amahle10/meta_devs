@@ -23,7 +23,7 @@ with open(filename, 'w') as csvfile:
         
     # writing the fields 
     csvwriter.writerow(fields) 
-    for i in range(100):
+    for i in range(1000):
         age = random.randint(24, 65)
         yes_no = random.choice(["YES", "NO"])
         type_of_matterial_prefarred = random.choice(["Books", "YouTube","Google search", "Teachers explanation", "peer to peer"])
