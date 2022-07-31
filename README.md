@@ -37,12 +37,12 @@ git clone git@github.com:LethaboMokg/meta_devs.git
 In this project we are building a model that sources and analyses information from students to find their preffered learning techniques and other contributing factors that have an effect in sparking their interest in enrolling into the STEM subjects. Results from the model will be the feedback given specifically to teachers, to help them better the quality of their lessons, thus increasing the number of students into the STEM subjects.
 
 ## Authors and acknowledgment
-Lethabo Mokgokoloshi
-Lindiwe Tshabalala
-Katlego Phoka
-Amahle Bilikwa
-Hendrick Lloyd Malatji 
-Ayabonga Hlongwana
-Kholofelo Masela
+Lethabo Mokgokoloshi<br>
+Lindiwe Tshabalala<br>
+Katlego Phoka<br>
+Amahle Bilikwa<br>
+Hendrick Lloyd Malatji<br>
+Ayabonga Hlongwana<br>
+Kholofelo Masela<br>
 Nonhlanhla Anitha Masuku
 
